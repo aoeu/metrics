@@ -1,1 +1,1 @@
-Man who falls in vat of molten optical glass makes spectacle of self.
+if_de.c:2401: 		    sc->tulip_mediums[media] = mi;
