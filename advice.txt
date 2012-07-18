@@ -1,1 +1,1 @@
-A resort area will be part of your next holiday plans
+	int three = 128+64, two = 128, one=64;
