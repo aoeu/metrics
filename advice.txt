@@ -1,1 +1,1 @@
-2008-06-18 00:00:37: [650] DEBUG: msg 5 not interesting
+It is the complex case that is easier to deal with.
