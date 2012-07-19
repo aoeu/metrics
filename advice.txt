@@ -1,1 +1,1 @@
-There is absolutely no warranty for GDB.  Type "show warranty" for details.
+ERROR:No man in the saddle an no horse under it either.
