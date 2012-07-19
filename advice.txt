@@ -1,1 +1,1 @@
-Little girls have pretty curls, but I like Oreos.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
