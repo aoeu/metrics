@@ -1,1 +1,1 @@
-Convictions cause convicts -- what you believe imprisons you.
+*** LGP ERROR ***: Initialize -- Cannot initialize graphics hardware device.
