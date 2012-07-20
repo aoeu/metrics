@@ -1,1 +1,1 @@
-Everything's been said before, but nobody's listening, so keep repeating.
+Note: gtest.java uses a deprecated API.  Recompile with "-deprecation" for details.
