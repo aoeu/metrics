@@ -1,1 +1,1 @@
-cpp0: Cannot allocate 939136576 bytes after allocating 457620 bytes
+Adversity is the source of strength.
