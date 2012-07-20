@@ -1,1 +1,1 @@
-Do not use the blue keys on this terminal.
+The sendmail security patch will be available in approximately two weeks.
