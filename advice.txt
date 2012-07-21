@@ -1,1 +1,1 @@
-bool x = "false";  // valid C++ [sets x to true]
+Knowledge does not keep any better than fish - A N Whitehead
