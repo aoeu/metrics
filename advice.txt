@@ -1,1 +1,1 @@
-panic: pagefault as_hole
+Nothing difficult is ever easy.  -Steve Falco
