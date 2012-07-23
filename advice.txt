@@ -1,1 +1,1 @@
-No user jobs will be lost because of the crash.
+If your experiment needs statistics, you ought to have done a better experiment. - E. Rutherford
