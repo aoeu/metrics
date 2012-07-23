@@ -1,1 +1,1 @@
-gt: warning -- bad idea to override alpha computation on matted-to-black target
+I hope that there are sour apples in every bushel.
