@@ -1,1 +1,1 @@
-He has the tongue very free.
+(void)vacuous(node);
