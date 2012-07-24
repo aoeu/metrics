@@ -1,1 +1,1 @@
-You can't teach an old dog new math.
+If you think awk is the perfect programming language for the problem, you don't understand the problem yet. -Rob Pike
