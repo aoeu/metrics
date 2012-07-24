@@ -1,1 +1,1 @@
-I can't work out who i'm supposed to be hiding my information from in any case. - Bruce Ellis
+/* Error in I/O : try another ioctl : see if it works*/
