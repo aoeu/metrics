@@ -1,1 +1,1 @@
-invalid control line !!!
+I know nothing.  -Ken Thompson
