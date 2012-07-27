@@ -1,1 +1,1 @@
-He is one who treads on bread.
+Line 3 of "/usr/add-on/trouble/bin/trouble": syntax error; saw '<'. Undefined: "Main"
