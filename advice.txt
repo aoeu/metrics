@@ -1,1 +1,1 @@
-gt: warning -- bad idea to override alpha computation on matted-to-black target
+Waste not, get your budget cut next year.
