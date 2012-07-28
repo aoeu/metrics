@@ -1,1 +1,1 @@
-Factors which cause a marked decrease in the liquidus slope have a greater relative effect on the solidus slope.  Hume-Rothery Rule
+gt: warning -- bad idea to override alpha computation on matted-to-black target
