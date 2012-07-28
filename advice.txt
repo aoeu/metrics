@@ -1,1 +1,1 @@
-The sendmail security patch will be available in approximately two weeks.
+Norm does not protect against overflow. - cos(9.3)
