@@ -1,1 +1,1 @@
-No one can feel as helpless as the owner of a sick goldfish.
+CPU0 states:   0.0% user, 150.0% system,   0.0%nice,   0.0% idle
