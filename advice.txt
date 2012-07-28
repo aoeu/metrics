@@ -1,1 +1,1 @@
-CPU0 states:   0.0% user, 150.0% system,   0.0%nice,   0.0% idle
+What's going to be the crunch today?
