@@ -1,1 +1,1 @@
-Program in place to shed costs
+Unix never says `please.'  -- Rob Pike
