@@ -1,1 +1,1 @@
-UX:lp: ERROR: Can't establish contact with the LP print service.
+We don't need a standard; Kernighan & Ritchie completely defines the language.
