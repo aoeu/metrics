@@ -1,1 +1,1 @@
-Will the call be routed on the same switch or will it go out over a truck to another switch?
+Both PH and FFF leave Ackermann's function coughing in the exhaust.
