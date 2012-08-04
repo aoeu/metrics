@@ -1,1 +1,1 @@
-Linux is good if you want to run Apache or compile the kernel.  Every other application is suspect.  - Andrew Hume
+For every vision there is an equal and opposite revision.
