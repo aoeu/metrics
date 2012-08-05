@@ -1,1 +1,1 @@
-Type C-h t for a tutorial on using Emacs.
+Vocatus atque non vocatus deus aderit.
