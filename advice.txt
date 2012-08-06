@@ -1,1 +1,1 @@
-Do you want to restart now?
+There's really no way to fix this, and still keep Perl pathologically eclectic.
