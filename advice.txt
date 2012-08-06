@@ -1,1 +1,1 @@
-FOR FASTER SERVICE, PLEASE CALL US WITH YOUR REFILLS 24 HOURS IN ADVANCE
+If something could be done about cache misses, programs would run about twice as fast.  -Andrew Appel
