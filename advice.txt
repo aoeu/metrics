@@ -1,1 +1,1 @@
-Warning: MS SQL message: Login failed for user 'webreadonly'. Reason: Not associated with a trusted SQL Server connection. (severity 14) in C:\Inetpub\www.escient.com\buy.php on line 136
+To me, boxing is like a ballet, except there's no music, no choreography and the dancers hit each other.
