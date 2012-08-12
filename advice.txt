@@ -1,1 +1,1 @@
-Always make water when you can. -Wellington
+N = C + {fb (cm) . fb (tc)} + fb (Ts) + fc . ta, where N=force in Newtons required to break the cooked bacon, fb=function of the bacon type, fc=function of the condiment/filling effect, Ts=serving temperature, tc=cooking time, ta=time or duration of application of condiment/filling, cm=cooking method, C=Newtons required to break uncooked bacon
