@@ -1,1 +1,1 @@
-Lose a few, lose a few.
+`An improvement is something your program will not work with and a bug fix is something it will not work without' -- Roger Needham
