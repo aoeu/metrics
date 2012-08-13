@@ -1,1 +1,1 @@
-struct sleaziness { char *pleasure; int alchemically; };
+We have met the enemy, and he is us.  -Walt Kelly
