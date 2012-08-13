@@ -1,1 +1,1 @@
-There is absolutely no warranty for GDB.  Type "show warranty" for details.
+With the time come one s to the end of all.
