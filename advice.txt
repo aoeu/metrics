@@ -1,1 +1,1 @@
-That sort of `collusive carrying' just isn't on.
+The major problem is with sendmail.  -Mark Horton
