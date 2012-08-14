@@ -1,1 +1,1 @@
-Populus vult decipi.
+Can't get device information: Success -- Linux Bluetooth discovery.
