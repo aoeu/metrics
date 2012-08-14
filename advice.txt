@@ -1,1 +1,1 @@
-warning: vector size unknown: p[i][j] means *(*(p+i)+j)
+We retard what we cannot repel, we palliate what we cannot cure. -Johnson
