@@ -1,1 +1,1 @@
-Some time between 1991 and 1992 computers will start to kill human beings in a way that will be noticed. John Cullyer, head of RSRE.
+warning: vector size unknown: p[i][j] means *(*(p+i)+j)
