@@ -1,1 +1,1 @@
-If something could be done about cache misses, programs would run about twice as fast.  -Andrew Appel
+That's the way I got promoted, by eating everything.  -pjw
