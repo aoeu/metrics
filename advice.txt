@@ -1,1 +1,1 @@
-cpu0: existing
+String manipulation is more complex than linked list manipulation.
