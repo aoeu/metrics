@@ -1,1 +1,1 @@
->>>'/܇D/' panic: decref
+Today's technological mastery is tomorrow's obsolescence.
