@@ -1,1 +1,1 @@
-Don't believe everything you hear or anything you say.
+?warning: write might change good version of `sendmail'
