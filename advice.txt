@@ -1,1 +1,1 @@
-Soft soap often has a high percentage of lye in it. -- Salada Tea
+exception: <type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'exception'
