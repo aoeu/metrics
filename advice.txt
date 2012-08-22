@@ -1,1 +1,1 @@
-Could not open 2147478952 framebuffers.
+Is the tool broadly supported or maintained?
