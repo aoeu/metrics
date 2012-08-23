@@ -1,1 +1,1 @@
-Caution -- be sure brain is engaged before putting mouth in gear.
+                syslog(LOG_WARNING,"/etc/copyright may be too large");
