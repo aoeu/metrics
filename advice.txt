@@ -1,1 +1,1 @@
-A hypothesis is an opinion that you are trying to prove true.
+Keep components as small as possible.  Katz Rule
