@@ -1,1 +1,1 @@
-mk: sed 's%^% %' ...  : exit status=|die: yankee dog
+What is now proved was once only imagined. -William Blake
