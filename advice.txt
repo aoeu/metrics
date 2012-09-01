@@ -1,1 +1,1 @@
-Excellent day for drinking heavily.  Spike the office water cooler.
+Note: gtest.java uses a deprecated API.  Recompile with "-deprecation" for details.
