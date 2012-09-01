@@ -1,1 +1,1 @@
-Note: gtest.java uses a deprecated API.  Recompile with "-deprecation" for details.
+The common theme to all three of the A320 crashes is lack of altitude.  -Aviation expert.
