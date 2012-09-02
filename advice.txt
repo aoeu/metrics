@@ -1,1 +1,1 @@
-The best weapon against breast cancer is early detention.
+warning: vector size unknown: p[i][j] means *(*(p+i)+j)
