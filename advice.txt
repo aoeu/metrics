@@ -1,1 +1,1 @@
-perform: Stale NFS file handle
+No user jobs will be lost because of the crash.
