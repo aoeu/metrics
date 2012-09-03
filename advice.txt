@@ -1,1 +1,1 @@
-Now is the winter of our discontent/Made glorious summer by this sun of York.
+Why I have to write echo "reboot" > reboot ? I prefer to write this.reboot = reboot   - <alter@cybercafe.com.ua> (Alt)
