@@ -1,1 +1,1 @@
-That sort of `collusive carrying' just isn't on.
+ * W * :../os/main.c: 64: CC042 - Instruction Will Cause Infinite Loop
