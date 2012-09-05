@@ -1,1 +1,1 @@
-There are no known bugs on the old versions of grep, fgrep, or sed that will cause any instability in the operating systems.
+I am a little more weird today than normal.  - Andrew Hume
