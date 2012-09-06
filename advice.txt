@@ -1,1 +1,1 @@
-	buf[0] = '\0';		/* make sure it's empty (silly 3b2) */
+In the sentence `The logical operators are OR and AND and XOR,' there should be spaces between OR and and and and and AND and AND and and and and and XOR.
