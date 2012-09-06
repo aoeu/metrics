@@ -1,1 +1,1 @@
-While I see many hoof-marks going in, I see none coming out. - Aesop.
+	buf[0] = '\0';		/* make sure it's empty (silly 3b2) */
