@@ -1,1 +1,1 @@
-If you think awk is the perfect programming language for the problem, you don't understand the problem yet. -Rob Pike
+Wine is the king of medicines.
