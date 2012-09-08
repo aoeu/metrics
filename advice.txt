@@ -1,1 +1,1 @@
-mk: sed 's%^% %' ...  : exit status=|die: yankee dog
+What if I go to New York and can't trust a menu?
