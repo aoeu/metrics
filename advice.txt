@@ -1,1 +1,1 @@
-It is likely that 2^104 is an ultimate limit on storage space, unless we want to turn New Jersy into a DRAM.  -chuck@pierre.mit.edu
+mk: sed 's%^% %' ...  : exit status=|die: yankee dog
