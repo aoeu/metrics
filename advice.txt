@@ -1,1 +1,1 @@
-rm: remove write-protected regular empty file `some_random_file'?
+/@burro.ws: Permission denied
