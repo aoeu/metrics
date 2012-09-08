@@ -1,1 +1,1 @@
-Hello new user, welcome to the Sun computing environment
+The unique power of UNIX (UPOU) is that vi includes awk.
