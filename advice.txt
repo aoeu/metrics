@@ -1,1 +1,1 @@
-Belvime i no send this mail for make spam!
+/* Error in I/O : try another ioctl : see if it works*/
