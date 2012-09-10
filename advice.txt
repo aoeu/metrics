@@ -1,1 +1,1 @@
-Few, few the bird make her nest.
+ntimesync.c:666 external redeclaration of: whatisthefrequencykenneth
