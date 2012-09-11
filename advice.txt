@@ -1,1 +1,1 @@
-The system is ready.
+Only %d shopping days until Christmas.
