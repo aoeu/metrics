@@ -1,1 +1,1 @@
-Niagara Falls is the wise bird who builds her nest in a chinese computer terminal!
+the representation of characters, but not the character set itself, was changed this weekend.  we believe that the representation we are using now will become the one used by unix-like systems everywhere.  - rob's news about utf-8, sep 6 1992
