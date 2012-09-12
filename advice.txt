@@ -1,1 +1,1 @@
-Pharr is about a day and a half.
+emacs: Terminal type "emacs" is not powerful enough to run Emacs.
