@@ -1,1 +1,1 @@
-/bin/ls: exec header invalid
+cpu: can't dial helix.cpu: ken hasn't implemented datakit
