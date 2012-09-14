@@ -1,1 +1,1 @@
-Grandmother's pets make poor providers.
+"trans.c":31932:compiler error: out of temporary string space
