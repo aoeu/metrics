@@ -1,1 +1,1 @@
-Real programmers can't say `lint' without adding `hbaxcu' -Wm Leler
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
