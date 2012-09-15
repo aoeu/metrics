@@ -1,1 +1,1 @@
-?warning: write might change good version of `foo'
+Redundant hardware is not cost-effective when compared to administration-mediation solutions.
