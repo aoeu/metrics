@@ -1,1 +1,1 @@
-Invalid null command.
+?warning: write might change good version of `foo'
