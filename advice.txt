@@ -1,1 +1,1 @@
-With functional programming languages, you can never make small mistakes, only very large ones. - Kedar Namjoshi
+We assume familiarity with Rubik's Cube, the delights of which cannot be presented adequately in a textual description!  - an algorithms textbook
