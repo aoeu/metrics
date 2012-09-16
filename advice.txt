@@ -1,1 +1,1 @@
-There is absolutely no warranty for GDB.  Type "show warranty" for details.
+The fool's wisdom comes after he is hurt.
