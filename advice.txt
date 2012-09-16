@@ -1,1 +1,1 @@
-How can a donkey know what saffron is?
+Note: gtest.java uses a deprecated API.  Recompile with "-deprecation" for details.
