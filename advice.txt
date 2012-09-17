@@ -1,1 +1,1 @@
-If you grab the bull by the horns, feathers will fly.
+Warning: bad syntax, perhaps a bogus '-'? See http://procps.sf.net/faq.html
