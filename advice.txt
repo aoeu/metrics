@@ -1,1 +1,1 @@
-"trans.c":31932:compiler error: out of temporary string space
+Never call a man a fool.  Borrow from him.
