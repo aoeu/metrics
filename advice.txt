@@ -1,1 +1,1 @@
-exception: <type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'exception'
+Oh!  It's one of those programs that reads standard output.  - boyd
