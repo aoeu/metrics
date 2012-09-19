@@ -1,1 +1,1 @@
-And so to bed.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
