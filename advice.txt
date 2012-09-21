@@ -1,1 +1,1 @@
-Even these days, it's not as easy to go crazy as you think.
+When your hammer is C++, everything begins to look like a thumb. -- Steve Hoflich, compl.lang.c++
