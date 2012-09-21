@@ -1,1 +1,1 @@
-Fritter and waste the hours in an offhand way.
+(never claims generated from LTL formulae are stutter-closed)
