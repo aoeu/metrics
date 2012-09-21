@@ -1,1 +1,1 @@
-Equations are the devil's sentences.  - Stephen Colbert
+A program that executes more instructions runs slower.  - Pike's Law
