@@ -1,1 +1,1 @@
-Verbosity leads to unclear, inarticulate things. - Dan Quayle
+You can't go home again, unless you set $HOME
