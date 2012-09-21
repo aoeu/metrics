@@ -1,1 +1,1 @@
-NOT NOT NOT ALLOWED
+Warning: bad syntax, perhaps a bogus '-'? See http://procps.sf.net/faq.html
