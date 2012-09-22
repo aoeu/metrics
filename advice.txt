@@ -1,1 +1,1 @@
-A578 Your FLP overflows into your KBUF.
+"Buffalo never Oink" -- a South Dakota travel brocure.
