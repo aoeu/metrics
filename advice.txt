@@ -1,1 +1,1 @@
-Does the early bird enjoy the worm as much as the late bird enjoys the sleep?
+?warning: write might change good version of `sendmail'
