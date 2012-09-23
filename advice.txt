@@ -1,1 +1,1 @@
-UX:cancel: WARNING: Request "SPARCprinterII-64" is done. TO FIX: It is too late to do anything with it.
+sendmail[94] AA00493: SYSERR: net hang reading from coma: Connection timed out during greeting wait with coma
