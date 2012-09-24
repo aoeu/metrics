@@ -1,1 +1,1 @@
-Out of the mouths of babes comes semi-digested Pablum.
+One of the silliest things you can do with a modern Unix machine is run the Eliza mode of Emacs against random quotes from Zippy the Pinhead.  - Eric Raymond
