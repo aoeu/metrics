@@ -1,1 +1,1 @@
-If you find any unidentified object under your seat, please do not attempt to smoke it.
+An X server itself is not a big piece of software, only a few 100K.
