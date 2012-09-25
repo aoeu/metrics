@@ -1,1 +1,1 @@
-It appears that people would rather have their hands on the wheel and drive off the cliff than be thrown over naked. (scj in Computing Systems)
+sh: /dev/null restricted
