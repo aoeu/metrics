@@ -1,1 +1,1 @@
-God not only plays dice with the universe, He loads the dice too.
+You are running the GNOME File Manager as root.  As root, you can damage your system, and the File Manager will not stop you.
