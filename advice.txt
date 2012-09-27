@@ -1,1 +1,1 @@
-RMS was neither ignorant nor lying.  He simply used word choices that created confusion.
+"term/select.c", line 116: compiler error: bad bigsize: 010
