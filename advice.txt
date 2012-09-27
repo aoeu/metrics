@@ -1,1 +1,1 @@
-Nihilism means nothing to the dancing peasants.
+MessageSocket::setHostname(): gethostbyname() failed: Success
