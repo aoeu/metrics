@@ -1,1 +1,1 @@
-Simon says, ``Don't be so suggestible.''
+A system is Unix if and only if it will compile and run everything on prep.ai.mit.edu without restrictions.
