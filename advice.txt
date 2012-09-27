@@ -1,1 +1,1 @@
-A system is Unix if and only if it will compile and run everything on prep.ai.mit.edu without restrictions.
+How do you explain that you changed your mind when you changed your hat? -Wm. Rogers
