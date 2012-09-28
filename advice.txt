@@ -1,1 +1,1 @@
-There's really no way to fix this, and still keep Perl pathologically eclectic.
+Once you start talking about Nothing, people think you're some sort of idiot. -John Cage
