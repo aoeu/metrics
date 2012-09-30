@@ -1,1 +1,1 @@
-Does the additional overhead of doing a function call make this act less atomic? -- pip
+You advocate a lot of egg sucking but you're not very forthcoming with the eggs.  Phil Winterbottom (to ken)
