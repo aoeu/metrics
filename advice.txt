@@ -1,1 +1,1 @@
-emacs: Terminal type "emacs" is not powerful enough to run Emacs.
+A vertical conference is a center-wide conference. - Steve Bellovin
