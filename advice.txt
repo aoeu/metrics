@@ -1,1 +1,1 @@
-Don't let your thoughts get in a rut. The knife which spreads may also cut.
+emacs: Terminal type "emacs" is not powerful enough to run Emacs.
