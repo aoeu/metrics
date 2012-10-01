@@ -1,1 +1,1 @@
-Testing is for bunglers.  Properly designed mechanisms work properly. -E.E. Smith (Skylark 3)
+The first step is to determine what the remaining steps are. -Mark Horton
