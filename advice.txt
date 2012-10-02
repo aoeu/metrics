@@ -1,1 +1,1 @@
-OK, I think I understand.
+cpu0: existing
