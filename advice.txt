@@ -1,1 +1,1 @@
-Just getting something to happen might be training, but it sure isn't education. -Brian L Stuart
+if_de.c:2401: 		    sc->tulip_mediums[media] = mi;
