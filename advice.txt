@@ -1,1 +1,1 @@
-        Welcome to VAX/VMS Version 1.60    
+warning: fioread.c:17 set and not used: goal
