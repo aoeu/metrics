@@ -1,1 +1,1 @@
-Hey, I've got it -- let's put on a show!
+Invalid null command.
