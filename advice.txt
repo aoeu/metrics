@@ -1,1 +1,1 @@
-If A=B and B=C, then A=C, except where void or prohibited by law.  -Roy Santoro
+Every time you make something foolproof, along comes a better class of fool.
