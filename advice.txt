@@ -1,1 +1,1 @@
-Reach out and grep someone.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
