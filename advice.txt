@@ -1,1 +1,1 @@
-Lucky Numbers `{seq 100}
+emacs: Terminal type "emacs" is not powerful enough to run Emacs.
