@@ -1,1 +1,1 @@
-! TeX capacity exceeded, sorry [main memory size=263001].
+seqno is 21, should be 21
