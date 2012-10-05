@@ -1,1 +1,1 @@
-String manipulation is more complex than linked list manipulation.
+Lazy people have no spare time.
