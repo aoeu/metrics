@@ -1,1 +1,1 @@
-The dependency dag for a target consists of nodes connected by directed arcs.
+The only things certain in life are X and taxes. - Bart Locanthi
