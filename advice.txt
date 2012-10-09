@@ -1,1 +1,1 @@
-If something could be done about cache misses, programs would run about twice as fast.  -Andrew Appel
+In the sentence `The logical operators are OR and AND and XOR,' there should be spaces between OR and and and and and AND and AND and and and and and XOR.
