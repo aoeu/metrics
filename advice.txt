@@ -1,1 +1,1 @@
-Connected to 192.65.218.43.
+A procedure can never use its own name in any way except to refer to itself.
