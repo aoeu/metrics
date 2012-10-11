@@ -1,1 +1,1 @@
-We apologize for any inconvenience this causes  - Lucent Convenience Centers
+mk: sed 's%^% %' ...  : exit status=|die: yankee dog
