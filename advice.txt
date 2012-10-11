@@ -1,1 +1,1 @@
-smtpdaemon is needed by diskcheck-1.4.2 	- Red Hat Linux
+Keep your mouth shut, your eyes open.
