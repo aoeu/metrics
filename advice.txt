@@ -1,1 +1,1 @@
-Disobedience was Man's Original Virtue.  -Oscar Wilde.
+C gains much of its vaunted efficiency by employing a very powerful pre-processor, usually called a ``programmer''.
