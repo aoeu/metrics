@@ -1,1 +1,1 @@
-By the pricking of my thumbs,/Something wicked this way comes.
+With functional programming languages, you can never make small mistakes, only very large ones. - Kedar Namjoshi
