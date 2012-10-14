@@ -1,1 +1,1 @@
-Sir Francis Drake circumcised the globe with a hundred foot clipper.
+Keep components as small as possible.  Katz Rule
