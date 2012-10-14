@@ -1,1 +1,1 @@
-I think I'm getting mellow in my old age. - Phil Winterbottom
+sed: Too much text: s/blow your own horn/BLOW YOUR OWN HORN/
