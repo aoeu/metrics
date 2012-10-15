@@ -1,1 +1,1 @@
-During 1986, UNIX will dominate the low end.  J. Scanlon
+Subject: slip:UX:killall: INFO: killing pid 140 <routed>
