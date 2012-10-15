@@ -1,1 +1,1 @@
-CC119 - Dead code generated for vacuous expr.
+What do you mean the 8080 & the 6502 are incompatible?  They're both NMOS!
