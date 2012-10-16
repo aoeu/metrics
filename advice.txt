@@ -1,1 +1,1 @@
-You are running the GNOME File Manager as root.  As root, you can damage your system, and the File Manager will not stop you.
+Virtual caches are the worst idea since register windows. - Phil Winterbottom
