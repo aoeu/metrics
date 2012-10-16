@@ -1,1 +1,1 @@
-Away put your weapon!  I mean you no harm.
+A system is Unix if and only if it will compile and run everything on prep.ai.mit.edu without restrictions.
