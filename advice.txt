@@ -1,1 +1,1 @@
-For ease of arithmetic we call 256 the largest index even though it is really 255, except at 255 itself. -- from a manual
+I've got you under my skin; moreover, you've invaded my lymph.
