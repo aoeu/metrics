@@ -1,1 +1,1 @@
-/*	dummy = malloc(0);  *//* prepare for garbage-collection */
+To craunch the marmoset.
