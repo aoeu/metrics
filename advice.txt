@@ -1,1 +1,1 @@
-An extended error was returned from the server. This is typically a string or buffer containing a verbose error message. Call InternetGetLastResponseInfo to retrieve the error text.
+Every institution I've ever been associated with has tried to screw me. - Stephen Wolfram
