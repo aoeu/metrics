@@ -1,1 +1,1 @@
-He turns as a weath turcocl.
+I have an x86 assembler in Bash.  Would that be helpful for porting Plan 9 libs to unix?  -Rick Hohensee
