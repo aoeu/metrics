@@ -1,1 +1,1 @@
-Software is the stuff that never works, always has to be maintained, and hardware is the other stuff. - Arno Penzias
+Subject: Overly Verbose (was Re: Korn shell source)
