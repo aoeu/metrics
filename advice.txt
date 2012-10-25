@@ -1,1 +1,1 @@
-Many are called, few are chosen.  Fewer still get to do the choosing.
+if_de.c:2401: 		    sc->tulip_mediums[media] = mi;
