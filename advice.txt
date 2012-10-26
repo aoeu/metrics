@@ -1,1 +1,1 @@
-/* Error in I/O : try another ioctl : see if it works*/
+Don't kill the gnat and let the hornet go.
