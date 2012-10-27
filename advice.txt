@@ -1,1 +1,1 @@
-He who pities his lamb can't eat kebab.
+In label expressions, <> expressions are ignored inside .char expressions.
