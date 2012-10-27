@@ -1,1 +1,1 @@
-In label expressions, <> expressions are ignored inside .char expressions.
+The book every man has inside him should usually stay there. - AJP Taylor
