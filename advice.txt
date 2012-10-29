@@ -1,1 +1,1 @@
-First off, I'd suggest printing out a copy of the GNU coding standards, and NOT read it.  Burn them, it's a great symbolic gesture.   - Linus Torvalds
+No UNIX system on the market supports more standards than DEC OSF/1.
