@@ -1,1 +1,1 @@
-Simon says, ``Don't be so suggestible.''
+sh: /usr/lib/sendmail: too big
