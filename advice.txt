@@ -1,1 +1,1 @@
-Software has gotten too fat and unreliable, so we started with Linux.  - Nicholas Negroponte
+GNU Emacs comes with ABSOLUTELY NO WARRANTY; type C-h C-w for full details.
