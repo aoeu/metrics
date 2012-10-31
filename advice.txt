@@ -1,1 +1,1 @@
-Version 8 Unix style Ritchie streams.
+We won't need reservations.
