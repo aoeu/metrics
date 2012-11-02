@@ -1,1 +1,1 @@
-One quantum of absorbed radiation activates only one molecule.  Einstein Rule
+panic: trap
