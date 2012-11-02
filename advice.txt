@@ -1,1 +1,1 @@
-Ha! You killed my husband, Sam.  Be kind to me.
+The proofs of the associative, commutative, and distributive laws for the integers are exercises in induction which might be called ``Peano playing.''  - An algebra textbook
