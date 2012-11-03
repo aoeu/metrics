@@ -1,1 +1,1 @@
-It's Your Environment -- Use It Up!
+parser.h:16: ISO C++ forbids declaration of `ConsumeOffendingSymbol'
