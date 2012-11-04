@@ -1,1 +1,1 @@
-Anyone who buys Wisconsin cheese is a traitor to mankind! -J. Pournelle
+How can you write a big system without C++?  -Paul Glick
