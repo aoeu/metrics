@@ -1,1 +1,1 @@
-Life is very strange - compared to what? - Penn Jillette
+mount: warning: <> mounted as </usr2>
