@@ -1,1 +1,1 @@
-The child never changes: sometimes for a hundred years.
+A monoid is an associative monad; its underlying magma is a semigroup.
