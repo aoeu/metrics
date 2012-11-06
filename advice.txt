@@ -1,1 +1,1 @@
-There are two kinds of people in the world -- those who are, and those who aren't.
+SCCS: the source-code motel -- your code checks in but it never checks out. Ken Thompson
