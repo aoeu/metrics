@@ -1,1 +1,1 @@
-warning: contravariance violation for method types ignored
+We should acknowledge the 10000-year sheep heritage of mankind. - Judge Clyde Burch.
