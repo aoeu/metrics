@@ -1,1 +1,1 @@
-Blessed are the meek for they shall inhibit the earth.
+The dependency dag for a target consists of nodes connected by directed arcs.
