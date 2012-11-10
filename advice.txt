@@ -1,1 +1,1 @@
-It is likely that 2^104 is an ultimate limit on storage space, unless we want to turn New Jersy into a DRAM.  -chuck@pierre.mit.edu
+How exciting to see you in traction again!
