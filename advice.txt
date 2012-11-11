@@ -1,1 +1,1 @@
-System going down for 5 minutes -- back up in half an hour.
+New crypt. See /usr/news/crypt.
