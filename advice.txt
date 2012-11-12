@@ -1,1 +1,1 @@
-A slip of the tongue cuts deeper than the sword.
+The downside of having an architecture is wart-for-wart compatibility. -Bob Willard, DEC
