@@ -1,1 +1,1 @@
-User: support@games.yahoo.com send to you mail with virus.  Please check mail in attach ! 
+Why I have to write echo "reboot" > reboot ? I prefer to write this.reboot = reboot   - <alter@cybercafe.com.ua> (Alt)
