@@ -1,1 +1,1 @@
-Why I have to write echo "reboot" > reboot ? I prefer to write this.reboot = reboot   - <alter@cybercafe.com.ua> (Alt)
+Your wife is right, you're a jerk.
