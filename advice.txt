@@ -1,1 +1,1 @@
-struct sleaziness { char *pleasure; int alchemically; };
+I regard an original error as better than no Moon at all.
