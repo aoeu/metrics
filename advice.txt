@@ -1,1 +1,1 @@
-A one- or two-inch piece of string/Cannot be used for anything.
+11/28: Macrocode caused entire 5990 complex to crash 17:15 - 18:14.
