@@ -1,1 +1,1 @@
-wrong malign list
+Don't show this message again.
