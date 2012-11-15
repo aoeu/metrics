@@ -1,1 +1,1 @@
-The name "grep" comes from the vi editor.  - An undergraduate computer science course
+  DEC OSF/1 V1.2 Worksystem Software (Rev. 10) The installation software has successfully installed your system.
