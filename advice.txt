@@ -1,1 +1,1 @@
-A substituted biphenyl can be resolved if and only if the sum of the hanging bond lengths is greater than 0.29nm.  Adam's Rule
+warning: vector size unknown: p[i][j] means *(*(p+i)+j)
