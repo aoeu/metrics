@@ -1,1 +1,1 @@
-Honi soit la vache qui rit.
+The name "grep" comes from the vi editor.  - An undergraduate computer science course
