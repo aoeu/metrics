@@ -1,1 +1,1 @@
-Captain Clark welcomes you aboard.
+Bonjour &FIRSTNAME;
