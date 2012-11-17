@@ -1,1 +1,1 @@
-Oh, don't the days seem lank and long, when all goes right and nothing goes wrong.
+BT,DT,fixed quite a few of them. - Al "-15kLOC during the last year" Viro
