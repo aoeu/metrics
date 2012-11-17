@@ -1,1 +1,1 @@
-CC119 - Dead code generated for vacuous expr.
+What distinguishes good software from poor software is customer satisfaction. -Bob Yacobellis
