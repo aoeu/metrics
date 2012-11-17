@@ -1,1 +1,1 @@
-Perfect day for scrubbing the floor and other exciting things.
+GTK+ is written in high quality object-orientated C.  - Programming with gtkmm
