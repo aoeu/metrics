@@ -1,1 +1,1 @@
-To eat of the cow mad.
+rc: Usage: whatis name ...: fd out of range or not open
