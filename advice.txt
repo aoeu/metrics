@@ -1,1 +1,1 @@
-Excellent time to become a missing person.
+Line 3 of "/usr/add-on/trouble/bin/trouble": syntax error; saw '<'. Undefined: "Main"
