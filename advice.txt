@@ -1,1 +1,1 @@
-By tradition, the return value of functions report what they did, not what they considered doing.  - rob
+Type C-h t for a tutorial on using Emacs.
