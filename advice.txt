@@ -1,1 +1,1 @@
-I found VC++ GUI programming more grief than COBOL using cards!  :-)
+Probably not a complicated question - how does the mount driver work? - C.R. Kalmanek
