@@ -1,1 +1,1 @@
-He who spends a storm beneath a tree, takes life with a grain of TNT.
+First off, I'd suggest printing out a copy of the GNU coding standards, and NOT read it.  Burn them, it's a great symbolic gesture.   - Linus Torvalds
