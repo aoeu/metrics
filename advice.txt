@@ -1,1 +1,1 @@
-"shaneystl.c", line 24: Note: Type "CC -migration" for more on anachronisms.
+reading worm0 directory (a couple of minutes)
