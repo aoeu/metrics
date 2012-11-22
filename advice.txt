@@ -1,1 +1,1 @@
-The contrary of a compound is the aggregate of the contraries of the components. - De Morgan
+parser.h:16: ISO C++ forbids declaration of `ConsumeOffendingSymbol'
