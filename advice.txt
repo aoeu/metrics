@@ -1,1 +1,1 @@
-Line 3 of "/usr/add-on/trouble/bin/trouble": syntax error; saw '<'. Undefined: "Main"
+Only one man ever understood me. And he didn't understand me. -Hegel (on his deathbed)
