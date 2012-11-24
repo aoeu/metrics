@@ -1,1 +1,1 @@
-gt: warning -- bad idea to override alpha computation on matted-to-black target
+Watch out for quantum ducks:  Quark!  Quark!
