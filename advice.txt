@@ -1,1 +1,1 @@
-So many heads so much opinions.
+	verb = a > b ? 'a': c > d ? 'd': 'c';
