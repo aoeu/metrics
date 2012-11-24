@@ -1,1 +1,1 @@
-Norm does not protect against overflow. - cos(9.3)
+ftp> Globbing on.
