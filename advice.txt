@@ -1,1 +1,1 @@
-We are experiencing network trouble -- do not adjust your illegal descrambler.
+GTK+ is written in high quality object-orientated C.  - Programming with gtkmm
