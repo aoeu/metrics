@@ -1,1 +1,1 @@
-Too many color components: 0, max 10
+Does the additional overhead of doing a function call make this act less atomic? -- pip
