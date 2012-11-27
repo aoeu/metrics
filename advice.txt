@@ -1,1 +1,1 @@
-The number of UNIX installations has grown to 10, with more expected. - 2nd Edition UNIX manual
+All dare to write, who can or cannot read. -Horace, `Epistles', Book II
