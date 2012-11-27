@@ -1,1 +1,1 @@
-Remember when you asked me to tell you when you were being inconsiderate?
+checking size of char... 1  - gnu configure
