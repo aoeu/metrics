@@ -1,1 +1,1 @@
-Each time we take a Newton step, we hit the snare drum.  -Eric Grosse
+Every program in development at MIT expands until it can read mail.
