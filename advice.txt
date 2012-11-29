@@ -1,1 +1,1 @@
-Fill what's empty; empty what's full; scratch where it itches. -Alice Roosevelt Longworth
+"shaneystl.c", line 24: Note: Type "CC -migration" for more on anachronisms.
