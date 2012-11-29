@@ -1,1 +1,1 @@
-reading worm0 directory (a couple of minutes)
+ * W * :test$cstatic$chatypedef$st$int$$cnt$$unsigned$$unsigned$$char$$fla$char$$fil$$FILEo: 1: CC019 - Old-fashioned Initialization. Use '=' Instead.
