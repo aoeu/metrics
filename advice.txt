@@ -1,1 +1,1 @@
-During 1986, UNIX will dominate the low end.  J. Scanlon
+A watched terminal never prints.
