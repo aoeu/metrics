@@ -1,1 +1,1 @@
-usage: ls -RadCLHxmnlogrtucpFbqisf [files]
+Philosophy is the Rule of Life.
