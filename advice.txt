@@ -1,1 +1,1 @@
-	verb = a > b ? 'a': c > d ? 'd': 'c';
+No one sits still when the next house burns.
