@@ -1,1 +1,1 @@
-This is a full standard Kernighan & Ritchie C compiler.
+Cannot fork -- try again.
