@@ -1,1 +1,1 @@
-You can't see the whole sky through a bamboo tube.
+For ease of arithmetic we call 256 the largest index even though it is really 255, except at 255 itself. -- from a manual
