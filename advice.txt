@@ -1,1 +1,1 @@
-Linux is good if you want to run Apache or compile the kernel.  Every other application is suspect.  - Andrew Hume
+If you miskey a symbol, it will be treated as text, unless it is mistaken for another symbol. -some IBM manual.
