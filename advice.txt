@@ -1,1 +1,1 @@
-Plus ça change, plus c'est la même chose.
+Can't get device information: Success -- Linux Bluetooth discovery.
