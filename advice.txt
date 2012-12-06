@@ -1,1 +1,1 @@
-As complicated as the semantics of virtual inheritance may seem, its support within the compiler has proven even more complicated.  - Stanley Lippman, Inside the C++ Object Model
+Your mouth won't get sweet just by saying "halva-halva".
