@@ -1,1 +1,1 @@
-yes >/dev/kmem		# Shutdown is broken. This'll have to do
+A victory is the greatest tragedy in the world, except a defeat. -Wellington
