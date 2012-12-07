@@ -1,1 +1,1 @@
-First off, I'd suggest printing out a copy of the GNU coding standards, and NOT read it.  Burn them, it's a great symbolic gesture.   - Linus Torvalds
+Figure 1b shows how C++'s pure virtual functions turned a black box into a toroidal design
