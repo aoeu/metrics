@@ -1,1 +1,1 @@
-BASH is great, it dumps core and has clear documentation.  -Ari Suntioinen
+There is no problem so large that it cannot be blamed on backup.
