@@ -1,1 +1,1 @@
-sendmail[94] AA00493: SYSERR: net hang reading from coma: Connection timed out during greeting wait with coma
+What is the origin of the Grand Canyon?  A Scotsman lost a nickel.
