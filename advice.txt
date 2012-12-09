@@ -1,1 +1,1 @@
-"term/select.c", line 116: compiler error: bad bigsize: 010
+Life is just a bowl.
