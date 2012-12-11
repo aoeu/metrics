@@ -1,1 +1,1 @@
-Two wrongs don't make a right; three lefts do.
+Mcc may be slow and generate bad code, but it took a long time to develop.
