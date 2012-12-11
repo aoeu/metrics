@@ -1,1 +1,1 @@
-Mcc may be slow and generate bad code, but it took a long time to develop.
+/@burro.ws: Permission denied
