@@ -1,1 +1,1 @@
-emacs: Terminal type "emacs" is not powerful enough to run Emacs.
+For any type of thing, there are more small things in the world than large things.  Benford's Rule
