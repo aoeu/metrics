@@ -1,1 +1,1 @@
-#       * NOTE: Comments in this file WILL DEGRADE PERFORMANCE.         *
+Please take note:
