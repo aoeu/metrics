@@ -1,1 +1,1 @@
-1181258 SAVECORE SEGMENTATION FAULT WHILE TRYING TO SAVE CORE
+Outside of a dog, a book is man's best friend.  Inside of a dog, it's too dark to read. -- Groucho Marx
