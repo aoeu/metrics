@@ -1,1 +1,1 @@
-Why I have to write echo "reboot" > reboot ? I prefer to write this.reboot = reboot   - <alter@cybercafe.com.ua> (Alt)
+ODIN will be down Sunday 4/2 from 8am - 9am for EASTERN DAYLIGHT TIME CHANGE.
