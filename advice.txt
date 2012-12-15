@@ -1,1 +1,1 @@
-An oscilloscope is what cavemen used to debug fire.  -Jim Veres
+	chan[2]='m';	/* Ooh, careful! */
