@@ -1,1 +1,1 @@
-Software has gotten too fat and unreliable, so we started with Linux.  - Nicholas Negroponte
+Type C-h t for a tutorial on using Emacs.
