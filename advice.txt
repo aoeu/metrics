@@ -1,1 +1,1 @@
-To me, boxing is like a ballet, except there's no music, no choreography and the dancers hit each other.
+With Basic you just use a GOTO, with Pascal you have to indent 99% of the program halfway across the page! -Ted M. Young (A Basic programmer for 12 years)
