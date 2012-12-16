@@ -1,1 +1,1 @@
-boot: nop...cfs...session...no physical memory
+Perscriptio in manibus tabellariorum est.
