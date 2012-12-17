@@ -1,1 +1,1 @@
-Of the physical pages in use, 3436738592 pages are permanently allocated to VMS.
+redefinition:  GLOBL	153352(gok(-118))[A7*16],gok(-116)/-937488177[R0*0]
