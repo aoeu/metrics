@@ -1,1 +1,1 @@
-yes >/dev/kmem		# Shutdown is broken. This'll have to do
+For ease of arithmetic we call 256 the largest index even though it is really 255, except at 255 itself. -- from a manual
