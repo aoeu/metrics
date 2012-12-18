@@ -1,1 +1,1 @@
-This thing is like a quarry where every pebble has something bad hidden underneath - Presotto about the Links source.
+/* Error in I/O : try another ioctl : see if it works*/
