@@ -1,1 +1,1 @@
-	ulong	when;			/* may underflow in clock(); must be signed */ 
+What's wrong with a two-hundred pound hat?  - Joe Condon
