@@ -1,1 +1,1 @@
-warning: fioread.c:17 set and not used: goal
+Sockets are the X windows of IO interfaces.  -R. Pike
