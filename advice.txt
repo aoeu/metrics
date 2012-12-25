@@ -1,1 +1,1 @@
-Sockets are the X windows of IO interfaces.  -R. Pike
+To laugh at men of sense is the privilege of fools.
