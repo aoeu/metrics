@@ -1,1 +1,1 @@
-When the map and the terrain disagree, trust the terrain. -Swiss army aphorism
+The whole UNIX operating system whose documentation fits in a chinese computer terminal!
