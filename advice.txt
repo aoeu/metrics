@@ -1,1 +1,1 @@
-I hate nostalgia.  I hated it then and I hate it now.
+When your hammer is C++, everything begins to look like a thumb. -- Steve Hoflich, compl.lang.c++
