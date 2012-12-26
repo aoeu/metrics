@@ -1,1 +1,1 @@
-Every purchase has its price.
+In label expressions, <> expressions are ignored inside .char expressions.
