@@ -1,1 +1,1 @@
-First we drink the wine.  Then the wine drinks the wine.  Then the wine drinks us.
+xyv: protocol fault for some string
