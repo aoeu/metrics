@@ -1,1 +1,1 @@
-"x.c", line 1: cannot recover from earlier errors: goodbye!
+server bootes available on 19.5
