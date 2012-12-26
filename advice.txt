@@ -1,1 +1,1 @@
-No viewpoints are banned.  Except those banned by the law. -- Iranian President Mohammed Khatami
+"trans.c":31932:compiler error: out of temporary string space
