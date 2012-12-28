@@ -1,1 +1,1 @@
-The MOV mnemonic, which stands for `move', is a misnomer.  A copy function is actually performed instead of a move. - AMD64 Architecture Programmer's Manual Volume 1
+At the end of the year we will be a zero sum game
