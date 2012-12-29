@@ -1,1 +1,1 @@
-                syslog(LOG_WARNING,"/etc/copyright may be too large");
+Reduce speed in wet or foggy weather.
