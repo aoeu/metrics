@@ -1,1 +1,1 @@
-There's no such thing as a simple cache bug. - Rob Pike
+The big kicker is operator expense
