@@ -1,1 +1,1 @@
-Valid license for the following required when not using dbx on kernel.  Product OSF-DEV (OSF Developer's Kit): No license found.
+sh: /dev/null restricted
