@@ -1,1 +1,1 @@
-There is absolutely no warranty for GDB.  Type "show warranty" for details.
+Every country has their uses.
