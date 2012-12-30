@@ -1,1 +1,1 @@
-To me, dynamic libraries are like clowns.  In both cases, I was frightened by one at an impressionable age and have loathed them ever since (Bozo tripped on his microphone and fell on me when I was 3, Multics got me at college). - Dave Presotto
+There are three kinds of people - those who can count, and those who can't.
