@@ -1,1 +1,1 @@
-Note: gtest.java uses a deprecated API.  Recompile with "-deprecation" for details.
+There are no known bugs on the old versions of grep, fgrep, or sed that will cause any instability in the operating systems.
