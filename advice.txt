@@ -1,1 +1,1 @@
-Accounting software is structured as a set of tools that can be used to build accounting systems.
+There is a need to keep from being locked into Open Systems. --IBM sales rep
