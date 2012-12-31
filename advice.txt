@@ -1,1 +1,1 @@
-warning: contravariance violation for method types ignored
+Don't use the ox-cleaver to kill a hen.
