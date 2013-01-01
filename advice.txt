@@ -1,1 +1,1 @@
-Better to have failed your Wasserman than never to have loved at all.
+	buf[0] = '\0';		/* make sure it's empty (silly 3b2) */
