@@ -1,1 +1,1 @@
-The opposite of a trivial truth is false; the opposite of a great truth is also true.
+Almost all good computer programs contain at least one random-number generator.
