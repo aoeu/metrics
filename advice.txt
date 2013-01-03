@@ -1,1 +1,1 @@
-Never wear your best pants when you go to fight for freedom.
+ * W * :../os/main.c: 64: CC042 - Instruction Will Cause Infinite Loop
