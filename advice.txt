@@ -1,1 +1,1 @@
-Plus ça change, plus c'est la même chose.
+remove is identical to install except that packages are removed instead of installed. If a plus sign is appended to the package name (with no intervening space), the identified package will be installed instead of removed.  - apt-get(8)
