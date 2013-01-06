@@ -1,1 +1,1 @@
-Sir Francis Drake circumcised the globe with a hundred foot clipper.
+Norm does not protect against overflow. - cos(9.3)
