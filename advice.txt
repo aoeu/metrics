@@ -1,1 +1,1 @@
-5. Il riversamento = dump in inglese.
+chdir: ?I/O error: `I/O error'
