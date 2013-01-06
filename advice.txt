@@ -1,1 +1,1 @@
-Norm does not protect against overflow. - cos(9.3)
+Last login: Sat Aug 10 09:22:14 on ttym0
