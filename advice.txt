@@ -1,1 +1,1 @@
-A fault is generally handled with a fault-handling procedure (called a fault handler) -intel 80960 ref man
+Wonder woman will be down Saturday, November 15th for hardware maintenance.
