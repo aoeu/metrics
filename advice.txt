@@ -1,1 +1,1 @@
-"shaneystl.c", line 24: Note: Type "CC -migration" for more on anachronisms.
+Time to take a stretch-break (possibly self-managed)
