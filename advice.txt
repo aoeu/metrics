@@ -1,1 +1,1 @@
-'Tis better playing with a lion's whelp,/Than with an old one dying.
+LoadPlugin: failed to initialize shared library /opt/net/exp/lib/mozilla/bin/plugins/j2re1.4.2/plugin/i386/ns610-gcc32/libjavaplugin_oji.so [/opt/net/exp/lib/mozilla/bin/plugins/j2re1.4.2/plugin/i386/ns610-gcc32/libjavaplugin_oji.so: undefined symbol: _ZdlPv]
