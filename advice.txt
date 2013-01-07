@@ -1,1 +1,1 @@
-For detailed information on the "info" command, type "man info".
+The secretaries don't understand me.  -Rob Pike
