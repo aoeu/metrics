@@ -1,1 +1,1 @@
-Statelessness ... is a means to an end, and should not be an end in itself.  -Jeff Mogul
+This is a full standard Kernighan & Ritchie C compiler.
