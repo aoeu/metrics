@@ -1,1 +1,1 @@
-		exhausted("sleep");
+Copyright (C) 1986 Free Software Foundation, Inc.
