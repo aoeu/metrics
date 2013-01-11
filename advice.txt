@@ -1,1 +1,1 @@
-You've got a syntax error somewhere in your code.  It could be around line 15.  Good luck finding it.  - the Mini-C compiler
+They've cooked their goose and now they must lie in it. -- Joh Petersen
