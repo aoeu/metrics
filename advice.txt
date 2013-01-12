@@ -1,1 +1,1 @@
-If emacs buffers were limited to the size of memory, it would not be possible to edit /dev/mem.  -tb@becket.net
+We don't write assembly language, we steal it. - brucee
