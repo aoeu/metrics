@@ -1,1 +1,1 @@
-Usenet is like letters to the editor, only without an editor.  - Larry Wall
+A fully declared Common Lisp program is as robust as assembly language.
