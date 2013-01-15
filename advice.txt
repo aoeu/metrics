@@ -1,1 +1,1 @@
-New crypt. See /usr/news/crypt.
+	ulong	when;			/* may underflow in clock(); must be signed */ 
