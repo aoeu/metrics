@@ -1,1 +1,1 @@
-FAILING HW:  DEC
+*        Method    As described above, see details below.
