@@ -1,1 +1,1 @@
-info: Terminal type `dumb' is not smart enough to run Info.
+It is the complex case that is easier to deal with.
