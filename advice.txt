@@ -1,1 +1,1 @@
-Disco delenda est.
+Why I have to write echo "reboot" > reboot ? I prefer to write this.reboot = reboot   - <alter@cybercafe.com.ua> (Alt)
