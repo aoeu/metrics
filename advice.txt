@@ -1,1 +1,1 @@
-There's no such thing as a simple cache bug. - Rob Pike
+The early bird gets the coffee left over from the night before.
