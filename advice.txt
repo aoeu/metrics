@@ -1,1 +1,1 @@
-Perhaps we could also have a special section for the words of the prophet Bushnell, crying out in the wilderness - "The GNU Public Licence is a jealous Licence, Thou shalt have none other Licence but me"  - andrew@mbmnz.co.nz
+If you miskey a symbol, it will be treated as text, unless it is mistaken for another symbol. -some IBM manual.
