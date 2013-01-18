@@ -1,1 +1,1 @@
-I hope I can finish the garbage collector before I run out of ice. - brucee
+usage: ls -RadCLHxmnlogrtucpFbqisf [files]
