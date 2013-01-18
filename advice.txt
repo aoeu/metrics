@@ -1,1 +1,1 @@
-I wouldn't give your troubles to a monkey on a rock.
+panic: pagefault as_hole
