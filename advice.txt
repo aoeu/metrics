@@ -1,1 +1,1 @@
-Nothing difficult is ever easy.  -Steve Falco
+.NOTICE;  ;?This comment is definitely out of date
