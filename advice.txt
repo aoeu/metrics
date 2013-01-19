@@ -1,1 +1,1 @@
-It's an empty head that wears a hairpiece. - Pauline Kael
+Can be applied directly on top of Tornado AE1.1 Cumulative Patch3, or on top of Tornado AE1.1 Cumulative Patch3 + patch 82607 + patch 83172. Patch 82607 and patch 83172 can not be applied on top of patch 84031.
