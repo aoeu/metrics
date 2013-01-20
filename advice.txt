@@ -1,1 +1,1 @@
-He who has science and art has religion. -Goethe
+An error has prevented <%=ServiceName%> from locating the message.
