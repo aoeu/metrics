@@ -1,1 +1,1 @@
-Program in place to shed costs
+Unix: from now on, consider it dead. -Mike O'Dell
