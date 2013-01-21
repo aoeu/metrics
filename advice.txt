@@ -1,1 +1,1 @@
-E Pluribus Unix.
+A watched terminal never prints.
