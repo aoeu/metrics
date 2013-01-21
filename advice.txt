@@ -1,1 +1,1 @@
-Cannot open phone book for <attrd>. Try a different company.
+Mcc may be slow and generate bad code, but it took a long time to develop.
