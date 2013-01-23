@@ -1,1 +1,1 @@
-rc: Usage: whatis name ...: fd out of range or not open
+Version 8 Unix style Ritchie streams.
