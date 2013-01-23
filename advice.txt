@@ -1,1 +1,1 @@
-Version 8 Unix style Ritchie streams.
+I wonder what will happen if I touch these two wires together.
