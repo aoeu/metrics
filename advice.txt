@@ -1,2 +1,2 @@
-You will stop at nothing to reach your objective, but only because your
-brakes are defective.
+Q:	Why did the WASP cross the road?
+A:	To get to the middle.
