@@ -1,1 +1,1 @@
-Assassination is the extreme form of censorship.
+/*	dummy = malloc(0);  *//* prepare for garbage-collection */
