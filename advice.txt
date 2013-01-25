@@ -1,3 +1,2 @@
-Reader, suppose you were an idiot.  And suppose you were a member of
-Congress.  But I repeat myself.
-		-- Mark Twain
+You will stop at nothing to reach your objective, but only because your
+brakes are defective.
