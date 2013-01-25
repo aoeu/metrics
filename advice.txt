@@ -1,1 +1,1 @@
-/*	dummy = malloc(0);  *//* prepare for garbage-collection */
+It is the complex case that is easier to deal with.
