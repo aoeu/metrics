@@ -1,2 +1,2 @@
-Your best consolation is the hope that the things you failed to get weren't
-really worth having.
+Q:	What do they call the alphabet in Arkansas?
+A:	The impossible dream.
