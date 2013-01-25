@@ -1,1 +1,1 @@
-Cheer Up!  Things are getting worse at a slower rate.
+If you think last Tuesday was a drag, wait till you see what happens tomorrow!
