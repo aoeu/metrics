@@ -1,1 +1,2 @@
-Try to have as good a life as you can under the circumstances.
+When in doubt, tell the truth.
+		-- Mark Twain
