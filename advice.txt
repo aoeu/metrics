@@ -1,2 +1,1 @@
-Something like #9, but for time of code commits, should probably be on the list: 
-	https://en.wikipedia.org/wiki/Source_lines_of_code#Disadvantages
+Be careful!  UGLY strikes 9 out of 10!
