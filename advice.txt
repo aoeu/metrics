@@ -1,1 +1,1 @@
- * W * :test$cstatic$chatypedef$st$int$$cnt$$unsigned$$unsigned$$char$$fla$char$$fil$$FILEo: 1: CC019 - Old-fashioned Initialization. Use '=' Instead.
+If you don't pay attention to every little detail, you miss most of the jokes.
