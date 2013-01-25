@@ -1,2 +1,2 @@
-What no spouse of a writer can ever understand is that a writer is working
-when he's staring out the window.
+No group of professionals meets except to conspire against the public at large.
+		-- Mark Twain
