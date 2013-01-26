@@ -1,1 +1,1 @@
-Netnews is someone yelling "Anybody wanna buy a used car?" in a crowded theater.
+Does the additional overhead of doing a function call make this act less atomic? -- pip
