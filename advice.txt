@@ -1,1 +1,1 @@
-System won't be available tomorrow 12/04 from 18:00 to 20:00 to install new cross compiler.
+In the future, all programmers will be able to use malloc.
