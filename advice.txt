@@ -1,1 +1,3 @@
-Your life would be very empty if you had nothing to regret.
+Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstools
+that think they are truffles.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
