@@ -1,1 +1,1 @@
-If the experiment works, you must be using the wrong equipment.
+If emacs buffers were limited to the size of memory, it would not be possible to edit /dev/mem.  -tb@becket.net
