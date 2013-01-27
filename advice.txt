@@ -1,1 +1,2 @@
-Your own qualities will help prevent your advancement in the world.
+Lay on, MacDuff, and curs'd be him who first cries, "Hold, enough!".
+		-- Shakespeare
