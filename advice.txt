@@ -1,1 +1,1 @@
-Never put a pair of used fuel lines in your wife's suitcase.
+This is a full standard Kernighan & Ritchie C compiler.
