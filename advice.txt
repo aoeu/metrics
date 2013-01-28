@@ -1,1 +1,1 @@
-A monoid is an associative monad; its underlying magma is a semigroup.
+Language is a virus from outer space.  -William Burroughs.
