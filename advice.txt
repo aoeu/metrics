@@ -1,1 +1,1 @@
-	ulong	when;			/* may underflow in clock(); must be signed */ 
+Not just the connectivity point
