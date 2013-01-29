@@ -1,1 +1,1 @@
-There are only 26 calls and most of them are trivial.
+`The time has come,' the Walrus said, `to talk of many things...'
