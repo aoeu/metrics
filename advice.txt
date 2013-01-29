@@ -1,1 +1,1 @@
-You should go home.
+You will pioneer the first Martian colony.
