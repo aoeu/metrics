@@ -1,2 +1,3 @@
-Q:	Why don't lawyers go to the beach?
-A:	The cats keep trying to bury them.
+Grief can take care of itself; but to get the full value of a joy you must
+have somebody to divide it with.
+		-- Mark Twain
