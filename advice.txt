@@ -1,2 +1,2 @@
-Q:	What's yellow, and equivalent to the Axiom of Choice?
-A:	Zorn's Lemon.
+Q:	Why don't lawyers go to the beach?
+A:	The cats keep trying to bury them.
