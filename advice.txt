@@ -1,3 +1,2 @@
-A long-forgotten loved one will appear soon.
-
-Buy the negatives at any price.
+Q:	What's tan and black and looks great on a lawyer?
+A:	A doberman.
