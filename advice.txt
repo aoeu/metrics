@@ -1,1 +1,1 @@
-A system programmer is someone who debugs his programs with an oscilloscope.
+One of the silliest things you can do with a modern Unix machine is run the Eliza mode of Emacs against random quotes from Zippy the Pinhead.  - Eric Raymond
