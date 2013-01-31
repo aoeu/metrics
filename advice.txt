@@ -1,1 +1,1 @@
-Silver is pure. It's been a symbol of justice and purity since the year of the sun.
+-rwxr-xr-x  1 rae rae 141307906 Nov 10 16:55 arm-2009q3-67-arm-none-linux-gnueabi.bin  # shell script
