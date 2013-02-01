@@ -1,1 +1,1 @@
-Secret mail has arrived.
+Closing this window will terminate the running processes: login, bash, acme, acme, devdraw, 9pserve, win, win, win, win, win, win, win, win, win, win, win, win, win, win, win, win.
