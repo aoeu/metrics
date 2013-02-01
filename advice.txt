@@ -1,1 +1,1 @@
-Love blinds us to our sweetheart's faults.
+With Basic you just use a GOTO, with Pascal you have to indent 99% of the program halfway across the page! -Ted M. Young (A Basic programmer for 12 years)
