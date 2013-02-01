@@ -1,1 +1,1 @@
-In diamagnetic organic compounds, the molar magnetic susceptibility is an additive property.  Pascal's Rule
+Type C-h t for a tutorial on using Emacs.
