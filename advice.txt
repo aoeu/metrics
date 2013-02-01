@@ -1,1 +1,1 @@
-To give ground is sometimes the best victory.
+"term/select.c", line 116: compiler error: bad bigsize: 010
