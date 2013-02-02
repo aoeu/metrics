@@ -1,1 +1,1 @@
-yes >/dev/kmem		# Shutdown is broken. This'll have to do
+Let wisdom and virtue be the two wheels of your cart.
