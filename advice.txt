@@ -1,2 +1,2 @@
-I fell asleep reading a dull book, and I dreamt that I was reading on,
-so I woke up from sheer boredom.
+Your best consolation is the hope that the things you failed to get weren't
+really worth having.
