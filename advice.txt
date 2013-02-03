@@ -1,1 +1,1 @@
-Some books are to be tasted, others to be swallowed. -- Francis Bacon
+With functional programming languages, you can never make small mistakes, only very large ones. - Kedar Namjoshi
