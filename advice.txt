@@ -1,1 +1,1 @@
-emacs: Terminal type "emacs" is not powerful enough to run Emacs.
+In order to obtain equations which reproduce a fractal object, tile the object with smaller copies of itself.  Barnsley's Rule
