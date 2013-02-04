@@ -1,1 +1,1 @@
-He who invents adages for others to peruse takes along rowboat when going on cruise.
+Why I have to write echo "reboot" > reboot ? I prefer to write this.reboot = reboot   - <alter@cybercafe.com.ua> (Alt)
