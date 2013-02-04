@@ -1,1 +1,1 @@
-Strong vinegar will break its own vessel.
+When your hammer is C++, everything begins to look like a thumb. -- Steve Hoflich, compl.lang.c++
