@@ -1,1 +1,1 @@
-Today is the first day of the rest of your life.
+Today is the last day of your life so far.
