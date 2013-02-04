@@ -1,1 +1,1 @@
-People really shouldn't spread gossip, but what else is it good for?
+rc: Usage: whatis name ...: fd out of range or not open
