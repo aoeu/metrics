@@ -1,1 +1,1 @@
-Ditat Deus.
+Checking system endianess...                    Big endian
