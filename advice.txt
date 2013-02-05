@@ -1,1 +1,1 @@
-One scythe fits all.
+You've got a syntax error somewhere in your code.  It could be around line 15.  Good luck finding it.  - the Mini-C compiler
