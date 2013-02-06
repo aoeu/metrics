@@ -1,1 +1,1 @@
-Better to have failed your Wasserman than never to have loved at all.
+If something could be done about cache misses, programs would run about twice as fast.  -Andrew Appel
