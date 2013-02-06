@@ -1,1 +1,1 @@
-Does the additional overhead of doing a function call make this act less atomic? -- pip
+For detailed information on the "info" command, type "man info".
