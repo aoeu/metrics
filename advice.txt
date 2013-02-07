@@ -1,1 +1,2 @@
-You are confused; but this is your normal state.
+All generalizations are false, including this one.
+		-- Mark Twain
