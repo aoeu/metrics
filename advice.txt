@@ -1,1 +1,1 @@
-You are not dead yet.  But watch for further reports.
+Stay away from flying saucers today.
