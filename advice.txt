@@ -1,1 +1,1 @@
-Subject: Re: Re: Clar ... HUMBUG! - Wrongthink st - (nf)
+"x.c", line 1: cannot recover from earlier errors: goodbye!
