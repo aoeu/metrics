@@ -1,1 +1,1 @@
-[Perl] combines the power of C with the readability of PostScript.  - Jamie Zawinski
+Let's have Unix become the next Nintendo. - Larry Dooling
