@@ -1,1 +1,1 @@
-Home is the place where, when you have to go there, they have to take you in.
+The name "grep" comes from the vi editor.  - An undergraduate computer science course
