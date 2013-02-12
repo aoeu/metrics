@@ -1,1 +1,1 @@
-Together we must rise to higher and higher platitudes.  -Richard Daley
+By tradition, the return value of functions report what they did, not what they considered doing.  - rob
