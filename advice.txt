@@ -1,1 +1,1 @@
-Why don't cannibals eat clowns?  Because they taste funny.
+For detailed information on the "info" command, type "man info".
