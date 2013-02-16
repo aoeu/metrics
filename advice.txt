@@ -1,1 +1,2 @@
-You will reach the highest possible point in your business or profession.
+There is always one thing to remember: writers are always selling somebody out.
+		-- Joan Didion, "Slouching Towards Bethlehem"
