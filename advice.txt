@@ -1,1 +1,1 @@
-parser/decl++.c:1700: warning: empty input file
+Statelessness ... is a means to an end, and should not be an end in itself.  -Jeff Mogul
