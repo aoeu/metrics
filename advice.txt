@@ -1,1 +1,1 @@
-The complex-type shall be a simple-type.  ISO 10206:1991 (Extended Pascal)
+Look before you run into a pole.
