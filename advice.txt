@@ -1,1 +1,1 @@
-What distinguishes good software from poor software is customer satisfaction. -Bob Yacobellis
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
