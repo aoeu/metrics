@@ -1,1 +1,1 @@
-vi vi vi - the roman number of the beast
+parser.h:16: ISO C++ forbids declaration of `ConsumeOffendingSymbol'
