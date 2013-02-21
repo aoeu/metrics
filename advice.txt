@@ -1,1 +1,1 @@
-Just getting something to happen might be training, but it sure isn't education. -Brian L Stuart
+cpu: can't dial helix.cpu: ken hasn't implemented datakit
