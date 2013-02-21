@@ -1,1 +1,2 @@
-Your object is to save the world, while still leading a pleasant life.
+Patch griefs with proverbs.
+		-- William Shakespeare, "Much Ado About Nothing"
