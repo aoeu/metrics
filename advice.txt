@@ -1,1 +1,2 @@
-You plan things that you do not even attempt because of your extreme caution.
+When one burns one's bridges, what a very nice fire it makes.
+		-- Dylan Thomas
