@@ -1,1 +1,1 @@
-ISDN: PPP-Daemon funktioniert nicht mehr
+A fault is generally handled with a fault-handling procedure (called a fault handler) -intel 80960 ref man
