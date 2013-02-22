@@ -1,1 +1,1 @@
-Subject: testing of aliases - please disregard
+We don't need a standard; Kernighan & Ritchie completely defines the language.
