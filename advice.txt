@@ -1,1 +1,1 @@
-Communication is only possible between equals.
+%-W-NORML Normal Successful Completion
