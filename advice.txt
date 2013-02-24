@@ -1,2 +1,3 @@
-Q:	How did you get into artificial intelligence?
-A:	Seemed logical -- I didn't have any real intelligence.
+Q:	How many bureaucrats does it take to screw in a light bulb?
+A:	Two.  One to assure everyone that everything possible is being
+	done while the other screws the bulb into the water faucet.
