@@ -1,1 +1,1 @@
-MessageSocket::setHostname(): gethostbyname() failed: Success
+We must transition people to AT&T plans
