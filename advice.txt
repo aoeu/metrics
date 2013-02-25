@@ -1,1 +1,1 @@
-/n/a:/100377-15/sun3/4.1.1/sendmail: Ascii & Extended Latin & Cyrillic & Hebrew text
+	int three = 128+64, two = 128, one=64;
