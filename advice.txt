@@ -1,1 +1,1 @@
-HONK IF YOU'RE ENTHUSIASTIC
+(warning) data origin prohibits saving reloc bits
