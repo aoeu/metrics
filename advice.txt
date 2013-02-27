@@ -1,1 +1,1 @@
-exception: <type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'exception'
+For every action there is an awesome engine of contagion.
