@@ -1,1 +1,1 @@
-recordio.h:992: type `__true_type' is not a base type for type `__false_type'
+Money is like an eel in the hand: slippery and wiggly, but ever-so-tasty.
