@@ -1,1 +1,1 @@
-You have an unusual understanding of the problems of human relationships.
+Are you making all this up as you go along?
