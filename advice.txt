@@ -1,1 +1,1 @@
-Tried to read 71776119061217303 bytes. Read only 23
+UX:lp: ERROR: Can't establish contact with the LP print service.
