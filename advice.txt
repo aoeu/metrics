@@ -1,1 +1,1 @@
-Ring the bell; close the book; quench the candle.
+/*	dummy = malloc(0);  *//* prepare for garbage-collection */
