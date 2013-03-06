@@ -1,1 +1,1 @@
-If you miskey a symbol, it will be treated as text, unless it is mistaken for another symbol. -some IBM manual.
+Toto, I've a feeling we're not in Kansas any more.
