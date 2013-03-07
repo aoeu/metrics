@@ -1,1 +1,1 @@
-Sorry, the passowrd you asked for is too long.  Please choose a password that is 2147459392 to 8 characters long.
+It is likely that 2^104 is an ultimate limit on storage space, unless we want to turn New Jersy into a DRAM.  -chuck@pierre.mit.edu
