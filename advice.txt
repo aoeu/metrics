@@ -1,1 +1,2 @@
-You will be winged by an anti-aircraft battery.
+Q:	What's tiny and yellow and very, very, dangerous?
+A:	A canary with the super-user password.
