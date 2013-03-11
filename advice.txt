@@ -1,1 +1,1 @@
-recordio.h:992: type `__true_type' is not a base type for type `__false_type'
+A cow must graze where she is tied, or chew the rope off.
