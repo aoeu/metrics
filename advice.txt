@@ -1,2 +1,3 @@
-Clothes make the man.  Naked people have little or no influence on society.
-		-- Mark Twain
+Q:	How many bureaucrats does it take to screw in a light bulb?
+A:	Two.  One to assure everyone that everything possible is being
+	done while the other screws the bulb into the water faucet.
