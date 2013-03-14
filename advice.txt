@@ -1,1 +1,2 @@
-If it's not worth doing, it's not worth doing well.
+WARNING: terminal is not fully functional
+ -  (press RETURN)
