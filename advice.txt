@@ -1,1 +1,1 @@
-#define struct union /* Great space saver */
+There is no time like the pleasant.
