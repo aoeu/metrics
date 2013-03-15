@@ -1,1 +1,1 @@
-Seek not to understand that you may believe, but believe that you may understand.
+	buf[0] = '\0';		/* make sure it's empty (silly 3b2) */
