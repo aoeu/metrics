@@ -1,1 +1,1 @@
-A fractal is a benchmark used for testing and evaluating various processors' numeric abilities.
+When does later become never?
