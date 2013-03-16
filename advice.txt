@@ -1,1 +1,1 @@
-sh: /dev/null restricted
+Your empty file directory has been deleted.
