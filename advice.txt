@@ -1,2 +1,2 @@
-O, what a tangled web we weave, When first we practice to deceive.
-		-- Sir Walter Scott, "Marmion"
+What I tell you three times is true.
+		-- Lewis Carroll
