@@ -1,1 +1,1 @@
-When your hammer is C++, everything begins to look like a thumb. -- Steve Hoflich, compl.lang.c++
+Real software has its own 800 support line.   Stu Feldman
