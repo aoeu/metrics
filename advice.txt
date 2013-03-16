@@ -1,1 +1,1 @@
-Captain Clark welcomes you aboard.
+as1: Error: ../bpvvv.c, line 1324: Too many float literals--compile with "-Wb,-nopool"
