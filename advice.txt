@@ -1,1 +1,1 @@
-My program is so jammed with clever tricks - GJ Holzmann
+Warning: bad syntax, perhaps a bogus '-'? See http://procps.sf.net/faq.html
