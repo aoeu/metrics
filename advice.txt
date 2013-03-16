@@ -1,1 +1,1 @@
-Kleeneliness is next to Goedeliness.
+It freezes to break the stones.
