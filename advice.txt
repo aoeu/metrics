@@ -1,1 +1,1 @@
-"x.c", line 1: cannot recover from earlier errors: goodbye!
+11/28: Macrocode caused entire 5990 complex to crash 17:15 - 18:14.
