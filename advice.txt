@@ -1,1 +1,1 @@
-Stop searching.  Happiness is right next to you.
+"x.c", line 1: cannot recover from earlier errors: goodbye!
