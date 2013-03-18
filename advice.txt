@@ -1,1 +1,1 @@
-God isn't dead, he just couldn't find a parking place.
+You are running the GNOME File Manager as root.  As root, you can damage your system, and the File Manager will not stop you.
