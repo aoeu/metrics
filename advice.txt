@@ -1,1 +1,1 @@
-To me, boxing is like a ballet, except there's no music, no choreography and the dancers hit each other.
+It is likely that 2^104 is an ultimate limit on storage space, unless we want to turn New Jersy into a DRAM.  -chuck@pierre.mit.edu
