@@ -1,1 +1,1 @@
-DELTA backup is running, system response will be slightly degraded.
+beware of component 3730
