@@ -1,1 +1,1 @@
-Invalid null command.
+VAX portability is assured.
