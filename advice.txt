@@ -1,1 +1,1 @@
-A few hours grace before the madness begins again.
+You will meet an important person who will help you advance professionally.
