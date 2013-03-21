@@ -1,1 +1,2 @@
-Tonight you will pay the wages of sin; Don't forget to leave a tip.
+"Life, loathe it or ignore it, you can't like it."
+		-- Marvin, "Hitchhiker's Guide to the Galaxy"
