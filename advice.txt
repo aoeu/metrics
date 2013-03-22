@@ -1,1 +1,1 @@
-Checking system endianess...                    Big endian
+rx: call to gauss failed: who_cares
