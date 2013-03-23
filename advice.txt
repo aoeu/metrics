@@ -1,2 +1,2 @@
-He is now rising from affluence to poverty.
-		-- Mark Twain
+Q:	How much does it cost to ride the Unibus?
+A:	2 bits.
