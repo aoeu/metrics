@@ -1,1 +1,1 @@
-checking size of char... 1  - gnu configure
+Here is the forecast: tomorrow will be muggy, followed by Tuegy, Weggy, Thurgy and Frigy.
