@@ -1,1 +1,1 @@
-Anyone's life is incomplete unless they are, in some smaller or larger way, saving the world.
+checking size of char... 1  - gnu configure
