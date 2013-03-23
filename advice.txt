@@ -1,2 +1,3 @@
-A horse!  A horse!  My kingdom for a horse!
-		-- Wm. Shakespeare, "Richard III"
+The lunatic, the lover, and the poet,
+Are of imagination all compact...
+		-- Wm. Shakespeare, "A Midsummer Night's Dream"
