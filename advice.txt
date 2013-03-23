@@ -1,1 +1,1 @@
-CPU0 states:   0.0% user, 150.0% system,   0.0%nice,   0.0% idle
+Perhaps we could also have a special section for the words of the prophet Bushnell, crying out in the wilderness - "The GNU Public Licence is a jealous Licence, Thou shalt have none other Licence but me"  - andrew@mbmnz.co.nz
