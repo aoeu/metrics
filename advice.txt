@@ -1,1 +1,1 @@
-Al Schumann, that devil-may-care Intern from FSD is leaving Tom Houghton's Security Group.
+Version 8 Unix style Ritchie streams.
