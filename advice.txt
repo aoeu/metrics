@@ -1,1 +1,1 @@
-This is a full standard Kernighan & Ritchie C compiler.
+Space travel is utter bilge.  -Sir Richard Van Der Riet Wolley
