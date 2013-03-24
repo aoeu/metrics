@@ -1,1 +1,1 @@
-A fool and his money are my best friends.
+chdir: ?I/O error: `I/O error'
