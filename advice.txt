@@ -1,1 +1,1 @@
-Life is to you a dashing and bold adventure.
+Good day to deal with people in high places; particularly lonely stewardesses.
