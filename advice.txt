@@ -1,3 +1,5 @@
-FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #5
-A:	The Halls of Montezuma and the Shores of Tripoli.
-Q:	Name two families whose kids won't join the Marines.
+Q:	How do you catch a unique rabbit?
+A:	Unique up on it!
+
+Q:	How do you catch a tame rabbit?
+A:	The tame way!
