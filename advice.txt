@@ -1,1 +1,1 @@
-Afternoon very favorable for romance.  Try a single person for a change.
+Today is the first day of the rest of the mess.
