@@ -1,2 +1,1 @@
-Truth is the most valuable thing we have -- so let us economize it.
-		-- Mark Twain
+You have Egyptian flu: you're going to be a mummy.
