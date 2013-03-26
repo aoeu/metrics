@@ -1,1 +1,1 @@
-A thousand days in the afterworld: better one day in this.
+A fully declared Common Lisp program is as robust as assembly language.
