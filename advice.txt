@@ -1,1 +1,1 @@
-A king's castle is his home.
+		  ** the "time" argument is mandatory! (try "now") **
