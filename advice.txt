@@ -1,1 +1,1 @@
-11/28: Macrocode caused entire 5990 complex to crash 17:15 - 18:14.
+There is no problem so small that it can't be blamed on Datakit -- A. Hume
