@@ -1,1 +1,2 @@
-Don't show this message again.
+WARNING: terminal is not fully functional
+ -  (press RETURN)
