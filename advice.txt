@@ -1,1 +1,1 @@
-Admiration is our polite recognition of another's resemblance to ourselves.
+[Perl] combines the power of C with the readability of PostScript.  - Jamie Zawinski
