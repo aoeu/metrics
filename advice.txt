@@ -1,1 +1,1 @@
-A Point is a pair of shorts.
+There's no such thing as a simple cache bug. - Rob Pike
