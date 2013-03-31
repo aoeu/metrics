@@ -1,1 +1,1 @@
-as1: Error: ../bpvvv.c, line 1324: Too many float literals--compile with "-Wb,-nopool"
+Reduce speed in wet or foggy weather.
