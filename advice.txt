@@ -1,1 +1,1 @@
-MessageSocket::setHostname(): gethostbyname() failed: Success
+Too many color components: 0, max 10
