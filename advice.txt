@@ -1,1 +1,1 @@
-No news is good news.
+setenv I_WANT_A_BROKEN_PS
