@@ -1,1 +1,1 @@
-I regard an original error as better than no Moon at all.
+proto.c:435 syntax error, last name: WRONG
