@@ -1,1 +1,1 @@
-Note: gtest.java uses a deprecated API.  Recompile with "-deprecation" for details.
+A fully declared Common Lisp program is as robust as assembly language.
