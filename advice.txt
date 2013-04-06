@@ -1,1 +1,1 @@
-You don't have a cherry orchard so how do you know what kind of bird a quail is.
+Note: gtest.java uses a deprecated API.  Recompile with "-deprecation" for details.
