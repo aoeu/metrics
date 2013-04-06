@@ -1,1 +1,1 @@
-Lucky Numbers `{seq 100}
+Invalids live the longest.
