@@ -1,1 +1,1 @@
-The ignored registers are for future backward-compatible extensions. - IA-64 Application Developer's Architecture Guide
+You know, Louis, I think this is the beginning of a beautiful friendship.
