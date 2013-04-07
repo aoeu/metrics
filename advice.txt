@@ -1,1 +1,1 @@
-A monoid is an associative monad; its underlying magma is a semigroup.
+f u cn rd ths u cn gt a gd jb n cmptr pgmng.
