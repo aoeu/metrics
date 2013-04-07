@@ -1,1 +1,1 @@
-Blessed be the optionless, for they shall not eat gnu
+A monoid is an associative monad; its underlying magma is a semigroup.
