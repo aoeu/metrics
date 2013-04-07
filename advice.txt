@@ -1,1 +1,1 @@
-There are but 10 types of people in the world. Those who understand the binary numbering system and those who don't.
+A program that executes more instructions runs slower.  - Pike's Law
