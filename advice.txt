@@ -1,1 +1,1 @@
-SPEC results inflated by too many compiler flags. -Microprocessor Review
+xyv: protocol fault for some string
