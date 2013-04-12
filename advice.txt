@@ -1,1 +1,1 @@
-Don't get shipwrecked as you enter port.
+SCCS: the source-code motel -- your code checks in but it never checks out. Ken Thompson
