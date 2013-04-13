@@ -1,1 +1,1 @@
-Intermittent resolutions lack potency. -Robert Silverberg
+String manipulation is more complex than linked list manipulation.
