@@ -1,1 +1,1 @@
-Go directly to jail.  Do not pass Go, do not collect $200.
+The ignored registers are for future backward-compatible extensions. - IA-64 Application Developer's Architecture Guide
