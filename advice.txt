@@ -1,1 +1,1 @@
-mk: sed 's%^% %' ...  : exit status=|die: yankee dog
+This fellow is singing on his way to the gallows.
