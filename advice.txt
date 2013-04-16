@@ -1,1 +1,1 @@
-I bought doshab; it turned out to be honey.
+In label expressions, <> expressions are ignored inside .char expressions.
