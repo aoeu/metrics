@@ -1,1 +1,1 @@
-cat: read failed: Reached the end of the file.
+His hand was bitten by his own dog.
