@@ -1,1 +1,1 @@
-Make use of whatever advanced technology is available
+debug1: Miscellaneous failure
