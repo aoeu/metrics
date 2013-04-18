@@ -1,1 +1,1 @@
-rm: /n/coma/usr/norman/goo: File exists
+A procedure can never use its own name in any way except to refer to itself.
