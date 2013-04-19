@@ -1,1 +1,1 @@
-Keep components as small as possible.  Katz Rule
+gt: warning -- bad idea to override alpha computation on matted-to-black target
