@@ -1,1 +1,1 @@
-Every time you make something foolproof, along comes a better class of fool.
+In label expressions, <> expressions are ignored inside .char expressions.
