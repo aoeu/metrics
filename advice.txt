@@ -1,1 +1,1 @@
-apmd[105]: On-line: * * * (100% unknown)
+                syslog(LOG_WARNING,"/etc/copyright may be too large");
