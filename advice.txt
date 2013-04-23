@@ -1,1 +1,1 @@
-        Welcome to VAX/VMS Version 1.60    
+"SPARC" is "CRAPS" backwards -- Rob Pike
