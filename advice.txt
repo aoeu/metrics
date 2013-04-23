@@ -1,1 +1,1 @@
-Lucky: like having a rice dumpling fly into your mouth.
+A monoid is an associative monad; its underlying magma is a semigroup.
