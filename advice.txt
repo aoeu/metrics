@@ -1,1 +1,1 @@
-A penny saved is a political breakthrough.
+You've got a syntax error somewhere in your code.  It could be around line 15.  Good luck finding it.  - the Mini-C compiler
