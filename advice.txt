@@ -1,1 +1,1 @@
-recordio.h:992: type `__true_type' is not a base type for type `__false_type'
+Belvime i no send this mail for make spam!
