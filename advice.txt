@@ -1,1 +1,1 @@
-A fully declared Common Lisp program is as robust as assembly language.
+Money is the root of all evil, and man needs roots.
