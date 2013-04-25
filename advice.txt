@@ -1,1 +1,1 @@
-Money is the root of all evil, and man needs roots.
+recordio.h:992: type `__true_type' is not a base type for type `__false_type'
