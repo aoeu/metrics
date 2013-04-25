@@ -1,1 +1,1 @@
-You can get HELP any time you are using TEACH by returning to the command state and typing "S 160".
+Things are more like they used to be than they are new.
