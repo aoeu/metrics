@@ -1,1 +1,1 @@
-fortune: not found
+Warning: I brake for no apparent reason.
