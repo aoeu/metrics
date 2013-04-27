@@ -1,1 +1,1 @@
-Ring the bell; close the book; quench the candle.
+2008-06-18 00:00:37: [650] DEBUG: msg 5 not interesting
