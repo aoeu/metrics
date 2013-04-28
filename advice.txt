@@ -1,1 +1,1 @@
-I have an x86 assembler in Bash.  Would that be helpful for porting Plan 9 libs to unix?  -Rick Hohensee
+The foot-clog and the Buddha: both made of wood.
