@@ -1,1 +1,1 @@
-I will inform you soon later.
+The complex-type shall be a simple-type.  ISO 10206:1991 (Extended Pascal)
