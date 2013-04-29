@@ -1,1 +1,1 @@
-Don't hate yourself in the morning -- sleep till noon.
+emacs: Terminal type "emacs" is not powerful enough to run Emacs.
