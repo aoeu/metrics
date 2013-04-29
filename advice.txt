@@ -1,1 +1,1 @@
-emacs: Terminal type "emacs" is not powerful enough to run Emacs.
+You are unlucky enough to bump into all my rough edges.  -A. Hume
