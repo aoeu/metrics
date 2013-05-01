@@ -1,1 +1,1 @@
-If you're calling to report a death, please press or say, "One".
+Why I have to write echo "reboot" > reboot ? I prefer to write this.reboot = reboot   - <alter@cybercafe.com.ua> (Alt)
