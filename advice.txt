@@ -1,1 +1,1 @@
-And I alone am returned to wag the tail.
+#define struct union /* Great space saver */
