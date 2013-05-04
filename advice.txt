@@ -1,1 +1,1 @@
-A fully declared Common Lisp program is as robust as assembly language.
+Fritter and waste the hours in an offhand way.
