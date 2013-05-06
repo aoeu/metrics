@@ -1,1 +1,1 @@
-	ulong	when;			/* may underflow in clock(); must be signed */ 
+Missouri loves company.
