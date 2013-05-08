@@ -1,1 +1,1 @@
-You can't tell a book if the title is covered.
+yes >/dev/kmem		# Shutdown is broken. This'll have to do
