@@ -1,1 +1,1 @@
-	verb = a > b ? 'a': c > d ? 'd': 'c';
+Kindness: not for others but for ourselves.
