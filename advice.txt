@@ -1,1 +1,1 @@
-Kill ugly radio!
+The complex-type shall be a simple-type.  ISO 10206:1991 (Extended Pascal)
