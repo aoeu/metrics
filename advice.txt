@@ -1,1 +1,1 @@
-Subject: slip:UX:killall: INFO: killing pid 140 <routed>
+Look before you run into a pole.
