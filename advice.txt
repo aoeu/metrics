@@ -1,1 +1,1 @@
-Are you proposing a solution or just whining? - Dave to Dave
+For detailed information on the "info" command, type "man info".
