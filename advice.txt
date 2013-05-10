@@ -1,1 +1,1 @@
-'Tis better playing with a lion's whelp,/Than with an old one dying.
+BASH is great, it dumps core and has clear documentation.  -Ari Suntioinen
