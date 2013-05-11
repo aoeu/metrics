@@ -1,1 +1,1 @@
-Don't go to the fishpond without a net.
+sh: /usr/lib/sendmail: too big
