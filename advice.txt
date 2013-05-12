@@ -1,1 +1,1 @@
-In our system, /usr/include/sys is a hazard.  -mvs
+fortune: not found
