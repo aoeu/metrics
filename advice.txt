@@ -1,1 +1,1 @@
-When you're young, carry stones.  When you're old, eat pilaf.
+"shaneystl.c", line 24: Note: Type "CC -migration" for more on anachronisms.
