@@ -1,1 +1,1 @@
-pm monday am
+We don't need a standard; Kernighan & Ritchie completely defines the language.
