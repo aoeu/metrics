@@ -1,1 +1,1 @@
-"RULE 7: Option arguments cannot be optional." Sys V Interface p 343.
+Each time we take a Newton step, we hit the snare drum.  -Eric Grosse
