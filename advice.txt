@@ -1,1 +1,1 @@
-We've got to raise this to a double-loop system
+ * W * :test$cstatic$chatypedef$st$int$$cnt$$unsigned$$unsigned$$char$$fla$char$$fil$$FILEo: 1: CC019 - Old-fashioned Initialization. Use '=' Instead.
