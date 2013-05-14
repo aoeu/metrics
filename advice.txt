@@ -1,1 +1,1 @@
-dd.c:	sbrk(64);	/* For good measure */
+We retard what we cannot repel, we palliate what we cannot cure. -Johnson
