@@ -1,1 +1,1 @@
-A mouse trap placed on top of your alarm clock will prevent you from rolling over and going back to sleep.
+Does the additional overhead of doing a function call make this act less atomic? -- pip
