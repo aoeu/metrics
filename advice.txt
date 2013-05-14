@@ -1,1 +1,1 @@
-A system is Unix if and only if it will compile and run everything on prep.ai.mit.edu without restrictions.
+Diamonds are only lumps of coal that stuck to their jobs. - Malcolm Forbes
