@@ -1,1 +1,1 @@
-sh: /usr/lib/sendmail: too big
+No amount of genius can overcome a preoccupation with detail.
