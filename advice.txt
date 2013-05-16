@@ -1,1 +1,1 @@
-Keep components as small as possible.  Katz Rule
+ftp> Globbing on.
