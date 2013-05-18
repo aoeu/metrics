@@ -1,1 +1,1 @@
-A penny saved kills your career in the Pentagon.
+In order to obtain equations which reproduce a fractal object, tile the object with smaller copies of itself.  Barnsley's Rule
