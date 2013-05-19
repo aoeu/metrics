@@ -1,1 +1,1 @@
-It got to a point where I had to get a haircut or a violin. -F.D.Roosevelt
+String manipulation is more complex than linked list manipulation.
