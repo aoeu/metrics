@@ -1,1 +1,1 @@
-frodo and pg should not build new kernels without talking to andrew
+Warning: this fortune may change your life.
