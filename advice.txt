@@ -1,1 +1,1 @@
-You can't win, you can't break even, and you can't get out of the game.
+This is a full standard Kernighan & Ritchie C compiler.
