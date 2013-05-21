@@ -1,1 +1,1 @@
-If you don't pay attention to every little detail, you miss most of the jokes.
+cat: read failed: Reached the end of the file.
