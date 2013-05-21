@@ -1,1 +1,1 @@
-During 1986, UNIX will dominate the low end.  J. Scanlon
+The complex-type shall be a simple-type.  ISO 10206:1991 (Extended Pascal)
