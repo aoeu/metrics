@@ -1,1 +1,1 @@
-Gentlemen, you can't fight here.  This is the war room.
+I did write and prove correct a 20-line program in January, but I made the mistake of testing it on our VAX and it had an error, which two weeks of searching didn't uncover, so there went one publication out the window.  - David Gries, 1980
