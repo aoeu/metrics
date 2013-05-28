@@ -1,1 +1,1 @@
-There's really no way to fix this, and still keep Perl pathologically eclectic.
+If your mailer pays attention to pathalias output, it obviously isn't dumb. - comp.mail.uucp
