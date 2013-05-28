@@ -1,1 +1,1 @@
-A 10.0-szer 0.1 sohasem 1.0!
+setenv I_WANT_A_BROKEN_PS
