@@ -1,1 +1,1 @@
-We don't need a standard; Kernighan & Ritchie completely defines the language.
+During 1986, UNIX will dominate the low end.  J. Scanlon
