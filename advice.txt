@@ -1,1 +1,1 @@
-A mouse trap placed on top of your alarm clock will prevent you from rolling over and going back to sleep.
+The ignored registers are for future backward-compatible extensions. - IA-64 Application Developer's Architecture Guide
