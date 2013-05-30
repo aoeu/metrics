@@ -1,1 +1,1 @@
-Make a list of all the facts you know about the universe.
+info: Terminal type `dumb' is not smart enough to run Info.
