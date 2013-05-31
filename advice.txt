@@ -1,1 +1,1 @@
-Old men for wisdom; young men for war.
+A fully declared Common Lisp program is as robust as assembly language.
