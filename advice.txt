@@ -1,1 +1,1 @@
-He who listens last is the last one listening.
+BT,DT,fixed quite a few of them. - Al "-15kLOC during the last year" Viro
