@@ -1,1 +1,1 @@
-BT,DT,fixed quite a few of them. - Al "-15kLOC during the last year" Viro
+Figure 1b shows how C++'s pure virtual functions turned a black box into a toroidal design
