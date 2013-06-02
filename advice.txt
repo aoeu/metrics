@@ -1,1 +1,1 @@
-This program cannot be run in DOS mode.
+reading worm0 directory (a couple of minutes)
