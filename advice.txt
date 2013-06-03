@@ -1,1 +1,1 @@
-Linux is for people who hate Windows.  BSD is for people who love UNIX.
+GNU Emacs comes with ABSOLUTELY NO WARRANTY; type C-h C-w for full details.
