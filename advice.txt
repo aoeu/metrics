@@ -1,1 +1,1 @@
-ArrayList of int / my list of int, equals new / ArrayList of int  - Steve Yegge
+The first step is to determine what the remaining steps are. -Mark Horton
