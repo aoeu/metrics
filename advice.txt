@@ -1,1 +1,1 @@
-Caution -- be sure brain is engaged before putting mouth in gear.
+as1: Error: ../bpvvv.c, line 1324: Too many float literals--compile with "-Wb,-nopool"
