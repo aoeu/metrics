@@ -1,1 +1,1 @@
-I wouldn't give your troubles to a monkey on a rock.
+The dependency dag for a target consists of nodes connected by directed arcs.
