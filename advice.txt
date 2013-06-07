@@ -1,1 +1,1 @@
-		  ** the "time" argument is mandatory! (try "now") **
+Multics is a powerful teaching tool.  -Ken Thompson
