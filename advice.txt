@@ -1,1 +1,1 @@
-The more things change, the more they'll never be the same again.
+I have an x86 assembler in Bash.  Would that be helpful for porting Plan 9 libs to unix?  -Rick Hohensee
