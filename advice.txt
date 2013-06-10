@@ -1,1 +1,1 @@
-Don't anthropomorphize computers - they hate that!
+Testing is for bunglers.  Properly designed mechanisms work properly. -E.E. Smith (Skylark 3)
