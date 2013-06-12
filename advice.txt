@@ -1,1 +1,1 @@
-A578 Your FLP overflows into your KBUF.
+Every cloud has a wet spot.
