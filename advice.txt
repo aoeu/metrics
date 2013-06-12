@@ -1,1 +1,1 @@
-So narrow minded is the boss that he has to stack his ideas vertically.
+rm: remove write-protected regular empty file `some_random_file'?
