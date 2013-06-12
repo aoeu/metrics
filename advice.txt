@@ -1,1 +1,1 @@
-rm: remove write-protected regular empty file `some_random_file'?
+object-oriented design is the roman numerals of computing.  - rob
