@@ -1,1 +1,1 @@
-System going down at 1:45 this afternoon for disk crash.
+*** LGP ERROR ***: Initialize -- Cannot initialize graphics hardware device.
