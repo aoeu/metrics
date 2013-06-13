@@ -1,1 +1,1 @@
-Stop searching.  Happiness is right next to you.
+The full documentation for cat is maintained as a Texinfo manual.  If the info and cat programs are properly installed at your site, the command "info cat" should give you access to the complete manual.
