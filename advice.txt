@@ -1,1 +1,1 @@
-We have met the enemy, and he is us.  -Walt Kelly
+remove is identical to install except that packages are removed instead of installed. If a plus sign is appended to the package name (with no intervening space), the identified package will be installed instead of removed.  - apt-get(8)
