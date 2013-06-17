@@ -1,1 +1,1 @@
-mp3riot -  Directory search utility
+Too many color components: 0, max 10
