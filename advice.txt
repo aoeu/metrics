@@ -1,1 +1,1 @@
-How did the Universe manage to go bang in such an unreasonable way? -PCW Davies
+ntimesync.c:666 external redeclaration of: whatisthefrequencykenneth
