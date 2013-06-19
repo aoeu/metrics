@@ -1,1 +1,1 @@
-People really shouldn't spread gossip, but what else is it good for?
+main: 7,913,578,496 used + 35,178,551,926,784 free = 2,093,416,448 (378% used)
