@@ -1,1 +1,1 @@
-If the enemy is within range, then so are you.
+An AI journal without hype? That's like a hot air balloon without the hot air.
