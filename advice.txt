@@ -1,1 +1,1 @@
-In our system, /usr/include/sys is a hazard.  -mvs
+Laugh, and the world ignores you.  Crying doesn't help either.
