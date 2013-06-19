@@ -1,1 +1,1 @@
-It is simpler to die than to live.
+sed: Too much text: s/blow your own horn/BLOW YOUR OWN HORN/
