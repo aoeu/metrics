@@ -1,1 +1,1 @@
- * W * :../os/main.c: 64: CC042 - Instruction Will Cause Infinite Loop
+If you grab the bull by the horns, feathers will fly.
