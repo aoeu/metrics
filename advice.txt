@@ -1,1 +1,1 @@
-struct sleaziness { char *pleasure; int alchemically; };
+I knew it was coming and I still felt as if I'd swallowed a snowcone whole.
