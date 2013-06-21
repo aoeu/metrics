@@ -1,1 +1,1 @@
-C gains much of its vaunted efficiency by employing a very powerful pre-processor, usually called a ``programmer''.
+Possession is nine-tenths of the privileged computer access code of ethics.
