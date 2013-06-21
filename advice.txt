@@ -1,1 +1,1 @@
-Man who stand on toilet ... high on pot.
+C gains much of its vaunted efficiency by employing a very powerful pre-processor, usually called a ``programmer''.
