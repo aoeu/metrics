@@ -1,1 +1,1 @@
-Pure English is de rigeur.
+eqn: illegal size of ignored near line 386, file part.5
