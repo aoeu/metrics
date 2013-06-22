@@ -1,1 +1,1 @@
-eqn: illegal size of ignored near line 386, file part.5
+It is a tale told by an idiot, full of sound and fury, signifying nothing.
