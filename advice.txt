@@ -1,1 +1,1 @@
-If something could be done about cache misses, programs would run about twice as fast.  -Andrew Appel
+In 1974 it was hard to find anyone who voted for Richard Nixon in 1972.
