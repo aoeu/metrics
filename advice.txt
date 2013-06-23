@@ -1,1 +1,1 @@
-/*	dummy = malloc(0);  *//* prepare for garbage-collection */
+If it doesn't happen at a corner, but at an edge, it nonetheless happens at a corner.
