@@ -1,1 +1,1 @@
-I can call spirits from the vasty deep./Why, so can I, or so can any man.
+rc: Usage: whatis name ...: fd out of range or not open
