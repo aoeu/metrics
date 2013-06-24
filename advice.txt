@@ -1,1 +1,1 @@
-rc: Usage: whatis name ...: fd out of range or not open
+I don't like to spend my time on sterile discussions -- Bjarne Stroustrup, in The Evolution of C++
