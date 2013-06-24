@@ -1,1 +1,1 @@
-This program cannot be run in DOS mode.
+Fungus doesn't take a vacation.  -Rob Pike
