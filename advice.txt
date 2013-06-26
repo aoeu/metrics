@@ -1,1 +1,1 @@
-Research is a great career: you get paid for looking, regardless of results.
+I define UNIX as ``30 definitions of regular expressions living under one roof.''  - Don Knuth
