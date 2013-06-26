@@ -1,1 +1,1 @@
-/bin/ls: exec header invalid
+Verbosity leads to unclear, inarticulate things. - Dan Quayle
