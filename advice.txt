@@ -1,1 +1,1 @@
-I love Pascal ... I'm also into leather.
+I have an x86 assembler in Bash.  Would that be helpful for porting Plan 9 libs to unix?  -Rick Hohensee
