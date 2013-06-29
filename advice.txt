@@ -1,1 +1,1 @@
-"term/select.c", line 116: compiler error: bad bigsize: 010
+uucp failed completely (11)
