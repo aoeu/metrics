@@ -1,1 +1,1 @@
-How did the Universe manage to go bang in such an unreasonable way? -PCW Davies
+	verb = a > b ? 'a': c > d ? 'd': 'c';
