@@ -1,1 +1,1 @@
-Is there no room for competition in the standards industry?  -R. Hardin
+Version 8 Unix style Ritchie streams.
