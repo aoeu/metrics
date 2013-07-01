@@ -1,1 +1,1 @@
-Rog-O-Matic callidus est.
+/*	dummy = malloc(0);  *//* prepare for garbage-collection */
