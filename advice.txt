@@ -1,1 +1,1 @@
-Real programmers can't say `lint' without adding `hbaxcu' -Wm Leler
+ttcp-r: 3689238521928343900000000000000 bytes in 41.02 real seconds = 87829643931512629000000000.00 KB/sec +++
