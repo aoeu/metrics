@@ -1,1 +1,1 @@
-If the check is truly in the mail, it is surely made out to someone else.
+If emacs buffers were limited to the size of memory, it would not be possible to edit /dev/mem.  -tb@becket.net
