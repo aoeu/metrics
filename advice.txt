@@ -1,1 +1,1 @@
-No man's life, liberty or property are safe while the legislature is in session.
+setenv I_WANT_A_BROKEN_PS
