@@ -1,1 +1,1 @@
-Critics are like eunuchs in a harem: they know how it's done, they've seen it done every day, but they're unable to do it themselves. -Brendan Behan
+>>>'/܇D/' panic: decref
