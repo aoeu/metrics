@@ -1,1 +1,1 @@
-Many are cold, but few are frozen.
+As complicated as the semantics of virtual inheritance may seem, its support within the compiler has proven even more complicated.  - Stanley Lippman, Inside the C++ Object Model
