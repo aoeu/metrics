@@ -1,1 +1,1 @@
-A fault is generally handled with a fault-handling procedure (called a fault handler) -intel 80960 ref man
+Nobody takes computer graphics seriously, even the guys that do it. -T. Duff
