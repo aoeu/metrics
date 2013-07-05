@@ -1,1 +1,1 @@
-Stereotypes are one of the worst things in the world. -miteddie!nessus
+"RULE 7: Option arguments cannot be optional." Sys V Interface p 343.
