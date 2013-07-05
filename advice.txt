@@ -1,1 +1,1 @@
-ntimesync.c:666 external redeclaration of: whatisthefrequencykenneth
+non-positive output count: .!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
