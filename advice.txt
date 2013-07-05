@@ -1,1 +1,1 @@
-Lucky: like having a rice dumpling fly into your mouth.
+Norm does not protect against overflow. - cos(9.3)
