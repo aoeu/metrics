@@ -1,1 +1,1 @@
-Future looks spotty.  You will spill soup in late evening.
+(never claims generated from LTL formulae are stutter-closed)
