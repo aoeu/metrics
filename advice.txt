@@ -1,1 +1,1 @@
-But macros are like having these high-powered band-aids, when what you want is not to be wounded in the first place.  - Steve Yegge
+If you haven't heard of XML yet, you must be living under a rock!  - Programming in the .NET Environment
