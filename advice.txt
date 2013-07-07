@@ -1,1 +1,1 @@
-parser.h:16: ISO C++ forbids declaration of `ConsumeOffendingSymbol'
+You start digging the well when you are thirsty.
