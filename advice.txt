@@ -1,1 +1,1 @@
-"x.c", line 1: cannot recover from earlier errors: goodbye!
+Why don't cannibals eat clowns?  Because they taste funny.
