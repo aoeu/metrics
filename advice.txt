@@ -1,1 +1,1 @@
-Bosses never realize that a bottle neck is always at the top.
+The dependency dag for a target consists of nodes connected by directed arcs.
