@@ -1,1 +1,1 @@
-Soft soap often has a high percentage of lye in it. -- Salada Tea
+rm: remove write-protected regular empty file `some_random_file'?
