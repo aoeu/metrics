@@ -1,1 +1,1 @@
-#define struct union /* Great space saver */
+I am a little more weird today than normal.  - Andrew Hume
