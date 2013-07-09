@@ -1,1 +1,1 @@
-prelink - prelink ELF shared libraries and binaries to speed up startup time
+Morality is ubiquitous in everything that is good or bad.
