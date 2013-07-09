@@ -1,1 +1,1 @@
-Surveillance should precede salientation.
+*** LGP ERROR ***: Initialize -- Cannot initialize graphics hardware device.
