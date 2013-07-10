@@ -1,1 +1,1 @@
-	buf[0] = '\0';		/* make sure it's empty (silly 3b2) */
+Why doesn't FSF pick on someone their own size?
