@@ -1,1 +1,1 @@
-May God forgive you for what you have done!  - Pope John Paul I, to the Cardinals who elected him
+The full documentation for cat is maintained as a Texinfo manual.  If the info and cat programs are properly installed at your site, the command "info cat" should give you access to the complete manual.
