@@ -1,1 +1,1 @@
-Look on my works, oh ye mighty, and giggle.
+Linux programmer's mind: don't invalidate the D-cache unless it wasn't enabled
