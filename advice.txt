@@ -1,1 +1,1 @@
-A closed mouth gathers no foot.
+(Of course SML does have its weaknesses, but by comparison, a discussion of C++'s strengths and flaws always sounds like an argument about whether one should face north or east when one is sacrificing one's goat to the rain god.)  - Thant Tessman
