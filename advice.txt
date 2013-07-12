@@ -1,1 +1,1 @@
-Nothing difficult is ever easy.  -Steve Falco
+Applicants must also have extensive knowledge of UNIX, although they should have sufficiently good programming taste to not consider this an achievement.  - Hal Abelson, MIT AI Lab job ad
