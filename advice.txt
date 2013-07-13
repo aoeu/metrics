@@ -1,1 +1,1 @@
-The function will not return until a character is read or the terminal is destroyed.
+Though the lord may unbend, the subject should not.
