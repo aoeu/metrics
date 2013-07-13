@@ -1,1 +1,1 @@
-But he who kisses the joy as it flies/Lives in Eternity's sunrise.  -Wm. Blake
+rm: remove write-protected regular empty file `some_random_file'?
