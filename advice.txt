@@ -1,1 +1,1 @@
-Troglodytism does not necessarily imply a low cultural level.
+The Blit is a nice terminal, but it runs emacs.
