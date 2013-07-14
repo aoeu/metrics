@@ -1,1 +1,1 @@
-One of the silliest things you can do with a modern Unix machine is run the Eliza mode of Emacs against random quotes from Zippy the Pinhead.  - Eric Raymond
+Can be applied directly on top of Tornado AE1.1 Cumulative Patch3, or on top of Tornado AE1.1 Cumulative Patch3 + patch 82607 + patch 83172. Patch 82607 and patch 83172 can not be applied on top of patch 84031.
