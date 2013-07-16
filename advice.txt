@@ -1,1 +1,1 @@
-We don't write anything in Perl anymore, because [ksh93] has all the functionality built in. - David Korn, quoted on Slashdot
+In wealth, many friends: in poverty, not even relatives.
