@@ -1,1 +1,1 @@
-struct sleaziness { char *pleasure; int alchemically; };
+We don't need a standard; Kernighan & Ritchie completely defines the language.
