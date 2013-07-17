@@ -1,1 +1,1 @@
-Adversity is the source of strength.
+mount: warning: <> mounted as </usr2>
