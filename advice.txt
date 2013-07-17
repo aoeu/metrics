@@ -1,1 +1,1 @@
-With Basic you just use a GOTO, with Pascal you have to indent 99% of the program halfway across the page! -Ted M. Young (A Basic programmer for 12 years)
+How exciting to see you in traction again!
