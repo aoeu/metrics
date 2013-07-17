@@ -1,1 +1,1 @@
-(hch:) Can't find /you/must/specify/HCDIR/bin/hc@sun41com
+Dijkstra is known for GOTOs, I'm known for whales...   -S.C. Johnson
