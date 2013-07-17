@@ -1,1 +1,1 @@
-prelink - prelink ELF shared libraries and binaries to speed up startup time
+There is not better sauce who has the appetite.
