@@ -1,0 +1,3811 @@
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+root path
+$$$
+Update whites.txt
+$$$
+Fixed syntax error
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+root path
+$$$
+Update whites.txt
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+root path
+$$$
+Update whites.txt
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+root path
+$$$
+Update whites.txt
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+root path
+$$$
+Update whites.txt
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+root path
+$$$
+Update whites.txt
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+root path
+$$$
+Update whites.txt
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+root path
+$$$
+Update whites.txt
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+root path
+$$$
+Update whites.txt
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+root path
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+First draft of horrible page
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+Update basic_var.clj
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+Fixed missing parenthesis bug.
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+push to branch master
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Added steam icon
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+reverse OOIION-1025 fix by jnewbrough
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+fix trail url
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+refactor
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Making innocent change for Houston CFUG
+$$$
+Split apps out to separate projects & stripped back buildsystem
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+"."
+$$$
+Added parameter to skip running NOTICE checks.
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+minor detail to make before/after code snippet match
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Bug fixeado en formulario5porempresa
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+1
+$$$
+rendering using free type. This commit is a work in progress and should NOT be used
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Update stats for Thu Jul 18 00:31:54 UTC 2013
+$$$
+errors in kafka script
+$$$
+Configured for use with Travis
+$$$
+Create style.css
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+resume update
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+Update cpu_lasso.cpp
+$$$
+Search for javascript (.js) and coffeescript (.coffee) controllers
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+Added test for CreateServiceActivity.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+push to branch master
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Testage.
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+frameworks/base: support devices with SoftAp that don't require firmware reload
+
+Partial forward port from ICS.
+Original Change-Id: If2db6e8ce675c3214ce645231c7a354f41ea0cc6
+
+Change-Id: Iacb2498ec0f567a0a7c4e0dbf9127b70f09223bd
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Remove for loops and conditions in tests.
+
+For loops and if conditions are sub-optimal in tests, for both
+stability and readability. Removed and replaced with Theory run
+features.
+Though this adds some time to the detailed tests, it's more correct.
+$$$
+removed TODOs
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+behavior writer done with getmethods and recursivly getting the code of subclasses
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Update readme
+$$$
+first test passes
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+first test passes
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+first test passes
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+Added a benchmark file for performance of gen:dict and gen:stream generics.
+$$$
+Create script.js
+$$$
+first test passes
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+corrected typo in README
+$$$
+Create script.js
+$$$
+first test passes
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).
+$$$
+corrected typo in README
+$$$
+Create script.js
+$$$
+first test passes
+$$$
+Update main.vb
+$$$
+modified index
+$$$
+te
+$$$
+actualiza composer.lock
+$$$
+Making issue titles more friendly
+$$$
+update
+$$$
+Moved feature config from config.mk to config.def.h.
+$$$
+RBTree: simplified isBalanced
+$$$
+Edited some stuff, figured other stuff out
+$$$
+con xml
+$$$
+Added plugin for video embedding. Also post about the PD 1.1.0 update & PAX sale.
+$$$
+A lot of code changes
+$$$
+Testing ItemLabelController.java
+$$$
+Setting stuff up
+$$$
+flopalyzer
+$$$
+Fixed utterly broken code so I now no longer render faces on chunk boundaries (when they are not needed).

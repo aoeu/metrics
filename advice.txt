@@ -1,1 +1,2 @@
-If it's not worth doing, it's not worth doing well.
+Something like #9, but for time of code commits, should probably be on the list: 
+	https://en.wikipedia.org/wiki/Source_lines_of_code#Disadvantages
