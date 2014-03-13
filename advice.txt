@@ -1,1 +1,1 @@
-Things will be bright in P.M.  A cop will shine a light in your face.
+You plan things that you do not even attempt because of your extreme caution.
