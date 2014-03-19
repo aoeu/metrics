@@ -1,1 +1,3 @@
-Tonight you will pay the wages of sin; Don't forget to leave a tip.
+Someone is speaking well of you.
+
+How unusual!
