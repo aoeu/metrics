@@ -1,1 +1,2 @@
-Day of inquiry.  You will be subpoenaed.
+Be cheerful while you are alive.
+		-- Phathotep, 24th Century B.C.
