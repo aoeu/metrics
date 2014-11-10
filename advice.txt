@@ -1,2 +1,2 @@
-The last thing one knows in constructing a work is what to put first.
-		-- Blaise Pascal
+It is a wise father that knows his own child.
+		-- William Shakespeare, "The Merchant of Venice"
