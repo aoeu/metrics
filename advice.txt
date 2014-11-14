@@ -1,2 +1,1 @@
-Few things are harder to put up with than the annoyance of a good example.
-		-- "Mark Twain, Pudd'nhead Wilson's Calendar"
+Another good night not to sleep in a eucalyptus tree.
