@@ -1,3 +1,3 @@
-Seeing that death, a necessary end,
-Will come when it will come.
-		-- William Shakespeare, "Julius Caesar"
+FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #31
+A:	Chicken Teriyaki.
+Q:	What is the name of the world's oldest kamikaze pilot?
