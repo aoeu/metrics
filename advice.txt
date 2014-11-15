@@ -1,2 +1,4 @@
-Q:	How many marketing people does it take to change a light bulb?
-A:	I'll have to get back to you on that.
+It is easy to find fault, if one has that disposition.  There was once a man
+who, not being able to find any other fault with his coal, complained that
+there were too many prehistoric toads in it.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
