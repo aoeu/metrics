@@ -1,1 +1,1 @@
-You have been selected for a secret mission.
+Don't go surfing in South Dakota for a while.
