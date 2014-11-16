@@ -1,1 +1,2 @@
-You will be advanced socially, without any special effort on your part.
+Good night to spend with family, but avoid arguments with your mate's
+new lover.
