@@ -1,1 +1,1 @@
-Your depth of comprehension may tend to make you lax in worldly ways.
+Your object is to save the world, while still leading a pleasant life.
