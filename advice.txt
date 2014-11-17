@@ -1,3 +1,2 @@
-Q:	How does a hacker fix a function which
-	doesn't work for all of the elements in its domain?
-A:	He changes the domain.
+You're growing out of some of your problems, but there are others that
+you're growing into.
