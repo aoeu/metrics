@@ -1,3 +1,1 @@
-Someone is speaking well of you.
-
-How unusual!
+Never commit yourself!  Let someone else commit you.
