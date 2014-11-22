@@ -1,1 +1,2 @@
-A gift of a flower will soon be made to you.
+Q:	What is printed on the bottom of beer bottles in Minnesota?
+A:	Open other end.
