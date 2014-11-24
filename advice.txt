@@ -1,1 +1,1 @@
-Avoid reality at all costs.
+Cheer Up!  Things are getting worse at a slower rate.
