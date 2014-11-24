@@ -1,1 +1,1 @@
-In the stairway of life, you'd best take the elevator.
+Tuesday After Lunch is the cosmic time of the week.
