@@ -1,1 +1,2 @@
-Tuesday After Lunch is the cosmic time of the week.
+You have an unusual magnetic personality.  Don't walk too close to
+metal objects which are not fastened down.
