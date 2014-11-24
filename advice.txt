@@ -1,1 +1,2 @@
-Among the lucky, you are the chosen one.
+He hath eaten me out of house and home.
+		-- William Shakespeare, "Henry IV"
