@@ -1,1 +1,2 @@
-You will be misunderstood by everyone.
+question = ( to ) ? be : ! be;
+		-- Wm. Shakespeare
