@@ -1,1 +1,2 @@
-Tonight's the night: Sleep in a eucalyptus tree.
+Q:	Why did the astrophysicist order three hamburgers?
+A:	Because he was hungry.
