@@ -1,1 +1,2 @@
-You're not my type.  For that matter, you're not even my species!!!
+Too much is just enough.
+		-- Mark Twain, on whiskey
