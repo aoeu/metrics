@@ -1,1 +1,2 @@
-You will experience a strong urge to do good; but it will pass.
+The ripest fruit falls first.
+		-- William Shakespeare, "Richard II"
