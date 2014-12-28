@@ -1,1 +1,2 @@
-You will meet an important person who will help you advance professionally.
+The fashion wears out more apparel than the man.
+		-- William Shakespeare, "Much Ado About Nothing"
