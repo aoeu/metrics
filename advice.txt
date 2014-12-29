@@ -1,1 +1,2 @@
-You are not dead yet.  But watch for further reports.
+Q:	Why did Menachem Begin invade Lebanon?
+A:	To impress Jodie Foster.
