@@ -1,1 +1,3 @@
-Your business will assume vast proportions.
+I must have a prodigious quantity of mind; it takes me as much as a
+week sometimes to make it up.
+		-- Mark Twain, "The Innocents Abroad"
