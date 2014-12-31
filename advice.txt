@@ -1,1 +1,1 @@
-You will visit the Dung Pits of Glive soon.
+Your aims are high, and you are capable of much.
