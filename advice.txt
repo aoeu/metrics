@@ -1,3 +1,2 @@
-Q:	How does a hacker fix a function which
-	doesn't work for all of the elements in its domain?
-A:	He changes the domain.
+You have an unusual magnetic personality.  Don't walk too close to
+metal objects which are not fastened down.
