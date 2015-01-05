@@ -1,1 +1,3 @@
-Good day for a change of scene.  Repaper the bedroom wall.
+FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #4
+A:	Go west, young man, go west!
+Q:	What do wabbits do when they get tiwed of wunning awound?
