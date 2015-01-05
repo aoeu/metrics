@@ -1,2 +1,2 @@
-Q:	What is the difference between Texas and yogurt?
-A:	Yogurt has culture.
+This was the most unkindest cut of all.
+		-- William Shakespeare, "Julius Caesar"
