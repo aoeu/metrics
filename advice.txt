@@ -1,1 +1,2 @@
-You will never know hunger.
+Writing is turning one's worst moments into money.
+		-- J.P. Donleavy
