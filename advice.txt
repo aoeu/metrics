@@ -1,1 +1,2 @@
-Try to get all of your posthumous medals in advance.
+Today's weirdness is tomorrow's reason why.
+		-- Hunter S. Thompson
