@@ -1,2 +1,1 @@
-Harp not on that string.
-		-- William Shakespeare, "Henry VI"
+You are fighting for survival in your own sweet and gentle way.
