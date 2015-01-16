@@ -1,1 +1,2 @@
-You plan things that you do not even attempt because of your extreme caution.
+Q:	How many IBM CPU's does it take to do a logical right shift?
+A:	33.  1 to hold the bits and 32 to push the register.
