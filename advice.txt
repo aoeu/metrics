@@ -1,1 +1,1 @@
-You will be awarded some great honor.
+You have no real enemies.
