@@ -1,2 +1,1 @@
-The Public is merely a multiplied "me."
-		-- Mark Twain
+You will give someone a piece of your mind, which you can ill afford.
