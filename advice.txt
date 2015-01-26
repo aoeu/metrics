@@ -1,1 +1,1 @@
-You will give someone a piece of your mind, which you can ill afford.
+Fine day to work off excess energy.  Steal something heavy.
