@@ -1,5 +1,4 @@
-April 1
-
-This is the day upon which we are reminded of what we are on the other three
-hundred and sixty-four.
+Gratitude and treachery are merely the two extremities of the same procession.
+You have seen all of it that is worth staying for when the band and the gaudy
+officials have gone by.
 		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
