@@ -1,1 +1,1 @@
-Live in a world of your own, but always welcome visitors.
+Bank error in your favor.  Collect $200.
