@@ -1,2 +1,3 @@
-You will lose your present job and have to become a door to door mayonnaise
-salesman.
+Q:	How does a hacker fix a function which
+	doesn't work for all of the elements in its domain?
+A:	He changes the domain.
