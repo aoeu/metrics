@@ -1,1 +1,2 @@
-You have a strong appeal for members of your own sex.
+question = ( to ) ? be : ! be;
+		-- Wm. Shakespeare
