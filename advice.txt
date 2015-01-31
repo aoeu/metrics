@@ -1,2 +1,2 @@
-The ripest fruit falls first.
-		-- William Shakespeare, "Richard II"
+I have never let my schooling interfere with my education.
+		-- Mark Twain
