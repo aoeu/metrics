@@ -1,1 +1,1 @@
-Things will be bright in P.M.  A cop will shine a light in your face.
+Good news.  Ten weeks from Friday will be a pretty good day.
