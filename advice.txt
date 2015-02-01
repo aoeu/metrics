@@ -1,1 +1,2 @@
-You will obey or molten silver will be poured into your ears.
+You have a reputation for being thoroughly reliable and trustworthy.
+A pity that it's totally undeserved.
