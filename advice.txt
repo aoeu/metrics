@@ -1,1 +1,1 @@
-Courage is your greatest present need.
+You have an unusual understanding of the problems of human relationships.
