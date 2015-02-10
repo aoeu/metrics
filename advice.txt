@@ -1,1 +1,2 @@
-You'd like to do it instantaneously, but that's too slow.
+Things past redress and now with me past care.
+		-- William Shakespeare, "Richard II"
