@@ -1,1 +1,3 @@
-Good news from afar can bring you a welcome visitor.
+Whenever you find that you are on the side of the majority, it is time
+to reform.
+		-- Mark Twain
