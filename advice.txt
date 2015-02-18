@@ -1,3 +1,3 @@
-Q:	Why haven't you graduated yet?
-A:	Well, Dad, I could have finished years ago, but I wanted
-	my dissertation to rhyme.
+ROMEO:		Courage, man; the hurt cannot be much.
+MERCUTIO:	No, 'tis not so deep as a well, nor so wide
+			as a church-door; but 'tis enough, 'twill serve.
