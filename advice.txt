@@ -1,1 +1,1 @@
-You are sick, twisted and perverted.  I like that in a person.
+You will contract a rare disease.
