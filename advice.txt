@@ -1,1 +1,1 @@
-Your talents will be recognized and suitably rewarded.
+Don't look back, the lemmings are gaining on you.
