@@ -1,1 +1,1 @@
-Today is National Existential Ennui Awareness Day.
+Your boss climbed the corporate ladder, wrong by wrong.
