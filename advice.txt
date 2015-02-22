@@ -1,1 +1,2 @@
-Accent on helpful side of your nature.  Drain the moat.
+This night methinks is but the daylight sick.
+		-- William Shakespeare, "The Merchant of Venice"
