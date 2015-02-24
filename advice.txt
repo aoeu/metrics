@@ -1,2 +1,2 @@
-Q:	What is printed on the bottom of beer bottles in Minnesota?
-A:	Open other end.
+I dote on his very absence.
+		-- William Shakespeare, "The Merchant of Venice"
