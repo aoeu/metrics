@@ -1,2 +1,2 @@
-You will lose your present job and have to become a door to door mayonnaise
-salesman.
+An honest tale speeds best being plainly told.
+		-- William Shakespeare, "Henry VI"
