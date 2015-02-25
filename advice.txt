@@ -1,1 +1,3 @@
-You will be awarded the Nobel Peace Prize... posthumously.
+"... an experienced, industrious, ambitious, and often quite often
+picturesque liar."
+		-- Mark Twain
