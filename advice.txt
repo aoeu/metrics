@@ -1,1 +1,1 @@
-You have a deep appreciation of the arts and music.
+You never know how many friends you have until you rent a house on the beach.
