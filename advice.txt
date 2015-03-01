@@ -1,1 +1,2 @@
-You will pass away very quickly.
+Q:	What lies on the bottom of the ocean and twitches?
+A:	A nervous wreck.
