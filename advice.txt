@@ -1,2 +1,2 @@
-Harp not on that string.
+Small things make base men proud.
 		-- William Shakespeare, "Henry VI"
