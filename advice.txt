@@ -1,1 +1,1 @@
-Your aims are high, and you are capable of much.
+Never commit yourself!  Let someone else commit you.
