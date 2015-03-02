@@ -1,1 +1,1 @@
-You will gain money by a fattening action.
+Time to be aggressive.  Go after a tattooed Virgo.
