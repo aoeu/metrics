@@ -1,1 +1,1 @@
-Today is the first day of the rest of your life.
+You will gain money by a fattening action.
