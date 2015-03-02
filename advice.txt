@@ -1,2 +1,1 @@
-I think we are in Rats' Alley where the dead men lost their bones.
-		-- T.S. Eliot
+You will be aided greatly by a person whom you thought to be unimportant.
