@@ -1,1 +1,1 @@
-And do you think (fop that I am) that I could be the Scarlet Pumpernickel?
+You will be awarded the Nobel Peace Prize... posthumously.
