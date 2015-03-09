@@ -1,1 +1,1 @@
-You like to form new friendships and make new acquaintances.
+Beware of a tall blond man with one black shoe.
