@@ -1,2 +1,2 @@
-You tread upon my patience.
-		-- William Shakespeare, "Henry IV"
+Wrinkles should merely indicate where smiles have been.
+		-- Mark Twain
