@@ -1,3 +1,3 @@
-"Elves and Dragons!" I says to him.  "Cabbages and potatoes are better
-for you and me."
-		-- J. R. R. Tolkien
+Zounds!  I was never so bethumped with words
+since I first called my brother's father dad.
+		-- William Shakespeare, "Kind John"
