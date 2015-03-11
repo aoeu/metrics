@@ -1,2 +1,2 @@
-By trying we can easily learn to endure adversity.  Another man's, I mean.
+Always do right.  This will gratify some people and astonish the rest.
 		-- Mark Twain
