@@ -1,1 +1,1 @@
-You will be aided greatly by a person whom you thought to be unimportant.
+You have had a long-term stimulation relative to business.
